@@ -22,7 +22,7 @@
         <li><NuxtLink to="/gallery" @click="closeMenu">Gallery</NuxtLink></li>
         <li><NuxtLink to="/how-to-find-us" @click="closeMenu">How to Find Us</NuxtLink></li>
         <li class="members-link">
-          <NuxtLink to="/members-area" @click="closeMenu">Members Area</NuxtLink>
+          <NuxtLink to="/members" @click="closeMenu">Members Area</NuxtLink>
         </li>
       </ul>
     </div>

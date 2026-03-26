@@ -16,9 +16,9 @@ If you are interested in joining us please contact [comms@tottenhamcommunitychoi
 
 ::alert{type="warning"}
 We are currently especially pleased to welcome people who sing **tenor or bass** to help balance the sections.
+::
 
 **Please do NOT attend rehearsals without contacting us first.**
-::
 
 ::alert{type="info"}
 We ask that you **NOT attend if feeling unwell**.
