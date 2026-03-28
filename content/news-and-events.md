@@ -36,26 +36,6 @@ Upcoming events will be listed here.
 
 ## Photo Gallery
 
-Photo gallery coming soon. In the meantime, visit our [Facebook page](https://en-gb.facebook.com/TottenhamCommunityChoir/) to see past performances.
+Photo gallery coming soon. In the meantime, visit our [Facebook page](https://en-gb.facebook.com/TottenhamCommunityChoir/){target="_blank"} to see past performances.
 
----
 
-## How to Find Us
-
-### Our Location
-
-We rehearse in Tottenham, London.
-
-**Coordinates:** 51.5817834, -0.0886562
-
-[View on Google Maps](https://www.google.com/maps?q=51.5817834,-0.0886562)
-
-<!-- Map component will be added here -->
-
----
-
-## Stay Connected
-
-- [Visit our Facebook page](https://en-gb.facebook.com/TottenhamCommunityChoir/)
-- [Online shop - get your choir merchandise!](https://www.redbubble.com/people/Tottenhamchoir/shop?asc=u)
-- Contact: [comms@tottenhamcommunitychoir.org](mailto:comms@tottenhamcommunitychoir.org)

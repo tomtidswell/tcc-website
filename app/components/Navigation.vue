@@ -16,7 +16,6 @@
 
       <ul class="nav-menu" :class="{ 'is-active': isMenuOpen }">
         <li><NuxtLink to="/" @click="closeMenu">Home</NuxtLink></li>
-        <li><NuxtLink to="/about-and-join" @click="closeMenu">About & Join</NuxtLink></li>
         <li><NuxtLink to="/news-and-events" @click="closeMenu">News & Events</NuxtLink></li>
         <li class="members-link">
           <NuxtLink to="/members" @click="closeMenu">Members Area</NuxtLink>
@@ -36,14 +35,15 @@ const closeMenu = () => {
 
 <style scoped>
 .navbar {
-  background: #5848b7;
+  background: #8f50e2;
   color: white;
   padding: 1rem 0;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  position: relative;
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 0 1rem;
   display: flex;
@@ -140,12 +140,13 @@ const closeMenu = () => {
     top: 100%;
     left: 0;
     right: 0;
-    background: #5848b7;
+    background: #8f50e2;
     flex-direction: column;
     padding: 1rem;
     gap: 1rem;
     display: none;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    z-index: 100;
   }
 
   .nav-menu.is-active {

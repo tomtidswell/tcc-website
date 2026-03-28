@@ -36,7 +36,7 @@ All feedback is appreciated and will be considered by the committee.
 
 Join our choir WhatsApp group to stay connected with fellow members, discuss rehearsals, coordinate logistics, and share updates:
 
-**[Join TCC WhatsApp Group](https://chat.whatsapp.com/DP6qegaHqx32VYAfPb2Kkv)**
+**[Join TCC WhatsApp Group](https://chat.whatsapp.com/DP6qegaHqx32VYAfPb2Kkv){target="_blank"}**
 
 ### Discussion Board
 

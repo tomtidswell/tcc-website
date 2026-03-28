@@ -7,7 +7,7 @@ protected: true
 # Repertoire
 
 ::alert{type="info"}
-**Practice App:** [Play songs on loop here (Jim's app)](https://tcc.jameshfisher.com/)
+**Practice App:** [Play songs on loop here (Jim's app)](https://tcc.jameshfisher.com/){target="_blank"}
 ::
 
 ## Current Repertoire
@@ -105,14 +105,14 @@ protected: true
 - [Part 3](/uploads/4/3/9/1/43916423/audio_2024_02_25_17_33_54_3_.m4a)
 
 ### It Must Be Love
-- [Soprano](https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/cbf7bf48-be7f-4ce8-a6a6-171eba38b29c/It_must_be_love_full_sop.mp3)
-- [Alto](https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/91af5ef9-319f-4a8d-b25a-1ad6f74578de/It_must_be_love_full_alto.mp3)
-- [Tenor](https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/bfed3f01-ae2f-4da3-811b-0cc7e1ddab9f/It_must_be_love_full_Ten.mp3)
-- [Bass](https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/49b3af46-1d29-4611-8b2d-fe0cb5c508fe/It_must_be_love_full_Bass.mp3)
+- [Soprano](https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/cbf7bf48-be7f-4ce8-a6a6-171eba38b29c/It_must_be_love_full_sop.mp3){target="_blank"}
+- [Alto](https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/91af5ef9-319f-4a8d-b25a-1ad6f74578de/It_must_be_love_full_alto.mp3){target="_blank"}
+- [Tenor](https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/bfed3f01-ae2f-4da3-811b-0cc7e1ddab9f/It_must_be_love_full_Ten.mp3){target="_blank"}
+- [Bass](https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/49b3af46-1d29-4611-8b2d-fe0cb5c508fe/It_must_be_love_full_Bass.mp3){target="_blank"}
 - [All parts (Tutti)](/uploads/4/3/9/1/43916423/it_must_be_love_tutti.mp3)
 
 ### Shenandoah
-- [Backing Track and Tune](https://tottenhamcommunitychoir.us8.list-manage.com/track/click?u=f9c3772c1b86e6bd327fff4cf&id=bc3fc63155&e=658d08eb82)
+- [Backing Track and Tune](https://tottenhamcommunitychoir.us8.list-manage.com/track/click?u=f9c3772c1b86e6bd327fff4cf&id=bc3fc63155&e=658d08eb82){target="_blank"}
 
 ---
 
