@@ -9,9 +9,9 @@ description: Tottenham Community Choir - Singing Makes You Feel Good!
 
 If you are interested in joining us please contact [comms@tottenhamcommunitychoir.org](mailto:comms@tottenhamcommunitychoir.org) for more details.
 
-::alert{type="info"}
 We are currently especially pleased to welcome people who sing **tenor or bass** to help balance the sections.
 
+::alert{color="red"}
 **Please do NOT attend rehearsals without contacting us first.**
 ::
 

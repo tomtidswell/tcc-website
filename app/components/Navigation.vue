@@ -16,11 +16,8 @@
 
       <ul class="nav-menu" :class="{ 'is-active': isMenuOpen }">
         <li><NuxtLink to="/" @click="closeMenu">Home</NuxtLink></li>
-        <li><NuxtLink to="/joining-tcc" @click="closeMenu">Joining TCC</NuxtLink></li>
-        <li><NuxtLink to="/about" @click="closeMenu">About Us</NuxtLink></li>
-        <li><NuxtLink to="/news-and-dates" @click="closeMenu">News and Dates</NuxtLink></li>
-        <li><NuxtLink to="/gallery" @click="closeMenu">Gallery</NuxtLink></li>
-        <li><NuxtLink to="/how-to-find-us" @click="closeMenu">How to Find Us</NuxtLink></li>
+        <li><NuxtLink to="/about-and-join" @click="closeMenu">About & Join</NuxtLink></li>
+        <li><NuxtLink to="/news-and-events" @click="closeMenu">News & Events</NuxtLink></li>
         <li class="members-link">
           <NuxtLink to="/members" @click="closeMenu">Members Area</NuxtLink>
         </li>
