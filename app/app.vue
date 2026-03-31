@@ -30,7 +30,7 @@ useHead({
 </script>
 
 <style lang="scss">
-@import '~/assets/styles/content.scss';
+@use '~/assets/styles/content.scss';
 
 * {
     box-sizing: border-box;
