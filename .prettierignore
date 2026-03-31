@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+.nuxt/
+.output/
+dist/
+.nitro/
+
+# Logs
+*.log
+
+# Lock files
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Cache
+.cache/
+
+# Public assets
+public/
+
+# Old site archive (contains invalid HTML)
+old-site-archive/html-files
+
+# OS files
+.DS_Store

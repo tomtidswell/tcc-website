@@ -15,10 +15,12 @@ Welcome to the members area! Here you'll find all the resources and information 
 ## Quick Links
 
 ### Core Resources
+
 - [📚 Repertoire](/members/repertoire) - Practice tracks for current and past songs (70+ MP3s)
 - [📋 Member Resources](/members/resources) - Dress code, refreshments, contact info
 
 ### Feedback & Communication
+
 - [💬 Feedback](/members/feedback) - Share your thoughts and suggestions
 
 ## Photos & Videos

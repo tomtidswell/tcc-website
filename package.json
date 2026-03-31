@@ -1,18 +1,21 @@
 {
-  "name": "tcc-website",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview"
-  },
-  "dependencies": {
-    "@nuxt/content": "^3.12.0",
-    "nuxt": "^4.4.2"
-  },
-  "devDependencies": {
-    "sass-embedded": "^1.98.0"
-  }
+    "name": "tcc-website",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "format": "prettier --write .",
+        "format:check": "prettier --check ."
+    },
+    "dependencies": {
+        "@nuxt/content": "^3.12.0",
+        "nuxt": "^4.4.2"
+    },
+    "devDependencies": {
+        "prettier": "^3.8.1",
+        "sass-embedded": "^1.98.0"
+    }
 }

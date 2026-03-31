@@ -3,8 +3,7 @@ title: Home
 description: Tottenham Community Choir - Singing Makes You Feel Good!
 ---
 
-
-**Singing Makes You Feel Good!**
+_Singing makes you feel good!_{.tagline}
 
 We're a friendly non-audition community choir based in Tottenham, and we'd love you to join us. Whether you've been singing all your life or never sung a note, you'll be welcome here.
 
@@ -17,7 +16,7 @@ Your first two rehearsals are **FREE** to give you the chance to decide if the c
 **Interested in joining?** Drop us a line at [comms@tottenhamcommunitychoir.org](mailto:comms@tottenhamcommunitychoir.org) and we'll tell you everything you need to know.
 
 ::alert{color="orange"}
-**Thinking of visiting?** Please get in touch first so we can give you a proper welcome!
+**Thinking of visiting?** Please get in touch first so we can give you a proper welcome
 ::
 
 ## Our Story
@@ -51,17 +50,18 @@ Not sure which part suits your voice? Don't worry! Just have a seat and join in 
 ::Accordion{title="How much does it cost?"}
 Our subscription rates per term (approximately 13 weeks):
 
-| Category | Cost per Term |
-|----------|---------------|
-| **First two weeks** | **FREE** |
-| Waged | £65.00 |
-| Unwaged/Part-time/Retired | £45.00 |
-| Students | £20.00 |
+| Category                  | Cost per Term |
+| ------------------------- | ------------- |
+| **First two weeks**       | **FREE**      |
+| Waged                     | £65.00        |
+| Unwaged/Part-time/Retired | £45.00        |
+| Students                  | £20.00        |
 
 Your first two rehearsals are completely free, giving you the chance to see if the choir is right for you.
 ::
 
 ::Accordion{title="When are the current term dates?"}
+
 - **Current term:** Tuesday 6th January to Tuesday 24th March
 - **Spring term:** Tuesday 14th April to Tuesday 21st July
 
@@ -86,12 +86,11 @@ N15 5BN
 **Rehearsals:** Tuesday evenings, 7:30-9:30pm
 
 **Nearest Tube Stations:**
+
 - Seven Sisters (Victoria Line)
 - Turnpike Lane (Piccadilly Line)
 
 **Local Buses:** 67, 41, 341
 
-[View on Google Maps](https://www.google.com/maps?q=51.5817834,-0.0886562){target="_blank"}
+[View on Google Maps](https://www.google.com/maps?q=51.5817834,-0.0886562){target="\_blank"}
 ::
-
-

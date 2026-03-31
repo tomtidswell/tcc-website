@@ -71,6 +71,7 @@ pnpm preview
 ## Original Site Archive
 
 The original site content is preserved in `old-site-archive/`:
+
 - **HTML Files**: All original public and members-only pages
 - **Documentation**: Complete reference documents for content migration
 - **Authentication Guide**: Instructions for accessing password-protected pages

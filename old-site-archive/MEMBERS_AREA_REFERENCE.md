@@ -23,6 +23,7 @@
 **Note:** All 9 pages above are password-protected and accessible only to current choir members.
 
 ### Non-Existent Pages (404)
+
 - member-resources.html
 - practice-recordings.html
 - sheet-music.html
@@ -35,11 +36,13 @@
 
 ## Detailed Page Content
 
-###  1. MEMBERS AREA (Landing Page)
+### 1. MEMBERS AREA (Landing Page)
+
 **URL:** `https://www.tottenhamcommunitychoir.org/members-area.html`  
 **Size:** 35.97 KB
 
 #### Content
+
 - Header: "These pages are for current choir members only"
 - Navigation to other members pages
 - Welcome message or index of members resources
@@ -47,52 +50,54 @@
 ---
 
 ### 2. REPERTOIRE
+
 **URL:** `https://www.tottenhamcommunitychoir.org/repertoire.html`  
 **Size:** 67.98 KB (largest members page)
 
 #### Structure
+
 - **External App**: [Play songs on loop here (Jim's app)](https://tcc.jameshfisher.com/)
 - Two main sections: Current Repertoire and Past Repertoire
-  
+
 #### Current Repertoire
 
 **Practice recordings for each vocal part (Soprano, Alto, Tenor, Bass):**
 
 1. **For Once in my Life**
-   - Sop1, Sop2, Alto1, Alto2, Tenor, Bass
-   - Files: `/uploads/4/3/9/1/43916423/foiml_[part].mp3`
+    - Sop1, Sop2, Alto1, Alto2, Tenor, Bass
+    - Files: `/uploads/4/3/9/1/43916423/foiml_[part].mp3`
 
 2. **Rhythm of Life**
-   - Sop, Alto1, Alto2, Tenor, Bass
-   - Files: `/uploads/4/3/9/1/43916423/trol_[part].mp3`
+    - Sop, Alto1, Alto2, Tenor, Bass
+    - Files: `/uploads/4/3/9/1/43916423/trol_[part].mp3`
 
 3. **Va Pensiero**
-   - Sop1, Sop2, Alto, Ten1, Ten2, Bass
-   - Files: `/uploads/4/3/9/1/43916423/va_pensiero_[part].mp3`
+    - Sop1, Sop2, Alto, Ten1, Ten2, Bass
+    - Files: `/uploads/4/3/9/1/43916423/va_pensiero_[part].mp3`
 
 4. **Sanctus**
-   - Sop, Alto1, Alto2, Tenor1, Tenor2, Bass
-   - Files: `/uploads/4/3/9/1/43916423/sanctus_[part].mp3`
+    - Sop, Alto1, Alto2, Tenor1, Tenor2, Bass
+    - Files: `/uploads/4/3/9/1/43916423/sanctus_[part].mp3`
 
 5. **Put on your Sunday Clothes**
-   - Sop & Tenor (combined), Alto & Bass (combined)
-   - Files: `/uploads/4/3/9/1/43916423/put_on_your_sunday_clothes_[part].mp3`
+    - Sop & Tenor (combined), Alto & Bass (combined)
+    - Files: `/uploads/4/3/9/1/43916423/put_on_your_sunday_clothes_[part].mp3`
 
 6. **Blackbird**
-   - Sop & Tenor (combined), Alto, Bass
-   - Files: `/uploads/4/3/9/1/43916423/blackbird_[part].mp3`
+    - Sop & Tenor (combined), Alto, Bass
+    - Files: `/uploads/4/3/9/1/43916423/blackbird_[part].mp3`
 
 7. **Jolene**
-   - Sop, Alto, Tenor, Bass
-   - Files: `/uploads/4/3/9/1/43916423/jolene_[part].mp3`
+    - Sop, Alto, Tenor, Bass
+    - Files: `/uploads/4/3/9/1/43916423/jolene_[part].mp3`
 
 8. **O Nuit**
-   - Sop, Alto, Tenor, Bass1, Bass2
-   - Files: `/uploads/4/3/9/1/43916423/o_nuit_[part].mp3`
+    - Sop, Alto, Tenor, Bass1, Bass2
+    - Files: `/uploads/4/3/9/1/43916423/o_nuit_[part].mp3`
 
 9. **God Only Knows**
-   - Sop, Alto, Tenor, Bass
-   - Files: `/uploads/4/3/9/1/43916423/god_only_knows_[part].mp3`
+    - Sop, Alto, Tenor, Bass
+    - Files: `/uploads/4/3/9/1/43916423/god_only_knows_[part].mp3`
 
 10. **A Little Jazz Mass - Gloria**
     - Sop, Alto, Tenor, Bass
@@ -118,9 +123,9 @@
     - Soprano, Alto, Tenor, Bass
     - Files: `/uploads/4/3/9/1/43916423/calon_lan_[part].mp3`
     - **Pronunciation guides:**
-      - Part1: `/uploads/4/3/9/1/43916423/audio_2024_02_25_17_33_54_1_.m4a`
-      - Part2: `/uploads/4/3/9/1/43916423/audio_verse2.m4a`
-      - Part3: `/uploads/4/3/9/1/43916423/audio_2024_02_25_17_33_54_3_.m4a`
+        - Part1: `/uploads/4/3/9/1/43916423/audio_2024_02_25_17_33_54_1_.m4a`
+        - Part2: `/uploads/4/3/9/1/43916423/audio_verse2.m4a`
+        - Part3: `/uploads/4/3/9/1/43916423/audio_2024_02_25_17_33_54_3_.m4a`
 
 16. **It Must Be Love**
     - Soprano, Alto, Tenor, Bass, All parts (Tutti)
@@ -133,13 +138,14 @@
 #### Past Repertoire
 
 1. **Polovtsian Dances**
-   - p.4-7: Soprano, Alto
-   - p.9-15: Sop1, Sop2, Alto, Tenor, Bass
-   - Files: `/uploads/4/3/9/1/43916423/pd_[section]_[part].mp3`
+    - p.4-7: Soprano, Alto
+    - p.9-15: Sop1, Sop2, Alto, Tenor, Bass
+    - Files: `/uploads/4/3/9/1/43916423/pd_[section]_[part].mp3`
 
 (Additional past repertoire tracks available but truncated in output)
 
 #### Features
+
 - Direct MP3 downloads for each vocal part
 - External loop player app for practice
 - Organized by current vs. past repertoire
@@ -150,10 +156,12 @@
 ---
 
 ### 3. COMMENTS AND CHAT
+
 **URL:** `https://www.tottenhamcommunitychoir.org/comments-and-chat.html`  
 **Size:** 35.88 KB
 
 #### Purpose
+
 - Member discussion board or comments section
 - Internal communication between members
 - Likely embedded comment system or forum
@@ -161,10 +169,12 @@
 ---
 
 ### 4. CONTACT (Members Only)
+
 **URL:** `https://www.tottenhamcommunitychoir.org/contact.html`  
 **Size:** 40.63 KB
 
 #### Content
+
 - Members-only contact form
 - Committee contact information
 - Internal communication channels
@@ -175,10 +185,12 @@
 ---
 
 ### 5. DRESS CODE
+
 **URL:** `https://www.tottenhamcommunitychoir.org/dress-code.html`  
 **Size:** 38.92 KB
 
 #### Purpose
+
 - Performance attire guidelines
 - Concert dress requirements
 - Color specifications
@@ -188,10 +200,12 @@
 ---
 
 ### 6. FEEDBACK
+
 **URL:** `https://www.tottenhamcommunitychoir.org/feedback.html`  
 **Size:** 86.53 KB (second largest page)
 
 #### Purpose
+
 - Member feedback form or system
 - Survey responses
 - Suggestions and comments
@@ -201,10 +215,12 @@
 ---
 
 ### 7. MEMBERS GALLERY
+
 **URL:** `https://www.tottenhamcommunitychoir.org/members-gallery.html`  
 **Size:** 41.28 KB
 
 #### Purpose
+
 - Private photos of members
 - Social event photos
 - Behind-the-scenes images
@@ -214,10 +230,12 @@
 ---
 
 ### 8. SERVING REFRESHMENTS
+
 **URL:** `https://www.tottenhamcommunitychoir.org/serving-refreshments.html`  
 **Size:** 38.81 KB
 
 #### Purpose
+
 - Refreshment duty rota
 - Instructions for tea break service
 - Guidelines for serving drinks and snacks
@@ -227,10 +245,12 @@
 ---
 
 ### 9. VIDEO GALLERY
+
 **URL:** `https://www.tottenhamcommunitychoir.org/video-gallery.html`  
 **Size:** 96.45 KB (largest page overall)
 
 #### Purpose
+
 - Performance videos
 - Rehearsal recordings
 - Private video content
@@ -242,29 +262,34 @@
 ## Technical Implementation Notes
 
 ### Authentication System
+
 - Uses Weebly's built-in password protection
 - Login endpoint: `https://www.tottenhamcommunitychoir.org/401/login.php`
 - Authentication method:
-  ```javascript
-  POST /401/login.php
-  Content-Type: application/x-www-form-urlencoded
-  
-  p=Copland0!&redirect=/[page].html&u=weebs
-  ```
+
+    ```javascript
+    POST /401/login.php
+    Content-Type: application/x-www-form-urlencoded
+
+    p=Copland0!&redirect=/[page].html&u=weebs
+    ```
+
 - Sets cookie: `WeeblySiteLogin`
 - Session management via cookies
 
 ### File Storage
+
 - Primary location: `/uploads/4/3/9/1/43916423/`
-- File types: 
-  - MP3 (practice recordings)
-  - M4A (pronunciation guides)
-  - Images (galleries)
-  - Videos (embedded or linked)
+- File types:
+    - MP3 (practice recordings)
+    - M4A (pronunciation guides)
+    - Images (galleries)
+    - Videos (embedded or linked)
 - External storage: MailChimp CDN for some audio files
 - External app: Jim's loop player at `https://tcc.jameshfisher.com/`
 
 ### Content Structure
+
 - All pages share common navigation
 - Consistent header/footer
 - Access message: "These pages are for current choir members only"
@@ -276,58 +301,58 @@
 ### Must Implement
 
 1. **Authentication System**
-   - Member login page
-   - Password protection for members area
-   - Session management
-   - Remember me functionality
-   - Password reset capability (recommended)
+    - Member login page
+    - Password protection for members area
+    - Session management
+    - Remember me functionality
+    - Password reset capability (recommended)
 
 2. **Repertoire Management**
-   - Current repertoire section
-   - Past repertoire archive
-   - Audio file upload and organization
-   - Vocal part categorization (Sop, Alto, Tenor, Bass, with splits)
-   - Pronunciation guide attachments
-   - External app integration (Jim's loop player)
+    - Current repertoire section
+    - Past repertoire archive
+    - Audio file upload and organization
+    - Vocal part categorization (Sop, Alto, Tenor, Bass, with splits)
+    - Pronunciation guide attachments
+    - External app integration (Jim's loop player)
 
 3. **File Management**
-   - Audio file storage (MP3, M4A)
-   - Image storage (galleries)
-   - Video storage/embedding
-   - CDN or cloud storage integration
+    - Audio file storage (MP3, M4A)
+    - Image storage (galleries)
+    - Video storage/embedding
+    - CDN or cloud storage integration
 
 4. **Communication Features**
-   - Comments/chat system
-   - Feedback forms
-   - Contact forms
+    - Comments/chat system
+    - Feedback forms
+    - Contact forms
 
 5. **Member Resources**
-   - Dress code guidelines
-   - Refreshment rota
-   - Photo galleries (public and members-only)
-   - Video gallery
+    - Dress code guidelines
+    - Refreshment rota
+    - Photo galleries (public and members-only)
+    - Video gallery
 
 ### Recommended Features
 
 1. **Admin Panel**
-   - Upload new practice tracks
-   - Update current repertoire
-   - Manage past repertoire
-   - Moderate comments
-   - Manage member access
+    - Upload new practice tracks
+    - Update current repertoire
+    - Manage past repertoire
+    - Moderate comments
+    - Manage member access
 
 2. **Enhanced UX**
-   - Audio player with controls
-   - Playlist functionality
-   - Download all parts for a song
-   - Sheet music PDF storage
-   - Mobile-friendly audio players
+    - Audio player with controls
+    - Playlist functionality
+    - Download all parts for a song
+    - Sheet music PDF storage
+    - Mobile-friendly audio players
 
 3. **Member Features**
-   - Personal practice log
-   - Favorites/bookmarks
-   - Download tracking
-   - Member profiles
+    - Personal practice log
+    - Favorites/bookmarks
+    - Download tracking
+    - Member profiles
 
 ---
 
@@ -336,6 +361,7 @@
 Based on the repertoire page, here's a suggested database schema:
 
 ### Songs Table
+
 - id
 - title
 - category (current/past)
@@ -347,6 +373,7 @@ Based on the repertoire page, here's a suggested database schema:
 - updated_at
 
 ### Audio Files Table
+
 - id
 - song_id (foreign key)
 - vocal_part (enum: Sop1, Sop2, Alto1, Alto2, Tenor, Bass, etc.)
@@ -356,6 +383,7 @@ Based on the repertoire page, here's a suggested database schema:
 - created_at
 
 ### Additional Resources
+
 - Pronunciation guides
 - Sheet music PDFs
 - Video recordings
@@ -365,6 +393,7 @@ Based on the repertoire page, here's a suggested database schema:
 ## Content Migration Checklist
 
 ### Audio Files to Migrate
+
 - [ ] 17 current repertoire songs
 - [ ] Multiple practice tracks per song (70+ files estimated)
 - [ ] Pronunciation guides (Calon Lan)
@@ -372,6 +401,7 @@ Based on the repertoire page, here's a suggested database schema:
 - [ ] Tutti recordings
 
 ### Pages to Build
+
 - [ ] Members area landing page
 - [ ] Repertoire page with audio players
 - [ ] Comments/chat system
@@ -383,6 +413,7 @@ Based on the repertoire page, here's a suggested database schema:
 - [ ] Video gallery
 
 ### Features to Implement
+
 - [ ] Authentication system
 - [ ] Audio file management
 - [ ] File upload interface (admin)

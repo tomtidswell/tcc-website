@@ -13,6 +13,7 @@ Guidelines for what to wear during performances will be posted here closer to ea
 ### General Guidelines
 
 Please ensure your performance attire is:
+
 - Clean and well-presented
 - Comfortable for singing
 - Appropriate for the venue
@@ -33,6 +34,7 @@ We have a tea break during our Tuesday rehearsals where hot drinks and cake are 
 ### Refreshment Duty
 
 Members take turns helping to serve refreshments during the break. This involves:
+
 - Setting up drinks
 - Serving cake
 - Taking payments (50p per item)

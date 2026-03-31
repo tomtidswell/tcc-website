@@ -43,57 +43,57 @@ Complete example using the fetch API:
 
 ```javascript
 async function fetchProtectedPage(pageUrl) {
-  // 1. Get session cookies
-  const sessionResponse = await fetch(pageUrl, { redirect: 'manual' });
-  const sessionCookies = sessionResponse.headers.get('set-cookie');
+    // 1. Get session cookies
+    const sessionResponse = await fetch(pageUrl, { redirect: 'manual' })
+    const sessionCookies = sessionResponse.headers.get('set-cookie')
 
-  // 2. Login
-  const loginResponse = await fetch('https://www.tottenhamcommunitychoir.org/401/login.php', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/x-www-form-urlencoded',
-      'Cookie': sessionCookies
-    },
-    body: new URLSearchParams({
-      p: 'Copland0!',
-      redirect: '/' + new URL(pageUrl).pathname.split('/').pop(),
-      u: 'weebs'
-    }),
-    redirect: 'manual'
-  });
+    // 2. Login
+    const loginResponse = await fetch('https://www.tottenhamcommunitychoir.org/401/login.php', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+            Cookie: sessionCookies,
+        },
+        body: new URLSearchParams({
+            p: 'Copland0!',
+            redirect: '/' + new URL(pageUrl).pathname.split('/').pop(),
+            u: 'weebs',
+        }),
+        redirect: 'manual',
+    })
 
-  // 3. Get login cookies and redirect URL
-  const loginCookies = loginResponse.headers.get('set-cookie');
-  const redirectUrl = loginResponse.headers.get('location');
+    // 3. Get login cookies and redirect URL
+    const loginCookies = loginResponse.headers.get('set-cookie')
+    const redirectUrl = loginResponse.headers.get('location')
 
-  if (!redirectUrl || !loginCookies.includes('WeeblySiteLogin')) {
-    throw new Error('Authentication failed');
-  }
+    if (!redirectUrl || !loginCookies.includes('WeeblySiteLogin')) {
+        throw new Error('Authentication failed')
+    }
 
-  // 4. Access the protected page
-  const finalResponse = await fetch(redirectUrl, {
-    headers: { 'Cookie': [sessionCookies, loginCookies].join('; ') }
-  });
-  
-  return await finalResponse.text();
+    // 4. Access the protected page
+    const finalResponse = await fetch(redirectUrl, {
+        headers: { Cookie: [sessionCookies, loginCookies].join('; ') },
+    })
+
+    return await finalResponse.text()
 }
 
 // Usage
-const html = await fetchProtectedPage('https://www.tottenhamcommunitychoir.org/repertoire.html');
-console.log(html);
+const html = await fetchProtectedPage('https://www.tottenhamcommunitychoir.org/repertoire.html')
+console.log(html)
 ```
 
 ---
 
 ## Technical Details
 
-| Property | Value |
-|----------|-------|
-| **Login Endpoint** | `https://www.tottenhamcommunitychoir.org/401/login.php` |
-| **Password** | `Copland0!` |
-| **Login Cookie Name** | `WeeblySiteLogin` |
-| **Session Duration** | Browser session (until cookies expire) |
-| **Platform** | Weebly's built-in password protection |
+| Property              | Value                                                   |
+| --------------------- | ------------------------------------------------------- |
+| **Login Endpoint**    | `https://www.tottenhamcommunitychoir.org/401/login.php` |
+| **Password**          | `Copland0!`                                             |
+| **Login Cookie Name** | `WeeblySiteLogin`                                       |
+| **Session Duration**  | Browser session (until cookies expire)                  |
+| **Platform**          | Weebly's built-in password protection                   |
 
 ### POST Parameters
 
@@ -106,6 +106,7 @@ When authenticating, send these form parameters:
 ### Response
 
 Successful authentication returns:
+
 - HTTP 302 redirect
 - `Location` header pointing to the requested page
 - `Set-Cookie` header with `WeeblySiteLogin` cookie
@@ -131,4 +132,5 @@ All pages in the `members-only/` directory require this authentication:
 ## Reference
 
 This authentication approach was adapted from:
+
 - https://github.com/jameshfisher/tcc-repertoire/blob/main/scripts/fetch-repertoire.ts
