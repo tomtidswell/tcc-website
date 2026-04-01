@@ -53,9 +53,14 @@ body {
 
 .main-content {
     flex: 1;
-    max-width: 800px;
     width: 100%;
-    margin: 0 auto;
-    padding: 2rem 1rem;
+
+    [data-content-id] {
+        > * {
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
 }
 </style>

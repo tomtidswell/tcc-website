@@ -1,33 +1,6 @@
 ---
-title: Home
-description: Tottenham Community Choir - Singing Makes You Feel Good!
+order: 4
 ---
-
-_Singing makes you feel good!_{.tagline}
-
-We're a friendly non-audition community choir based in Tottenham, and we'd love you to join us. Whether you've been singing all your life or never sung a note, you'll be welcome here.
-
-## Come Along on a Tuesday!
-
-We rehearse every **Tuesday from 7:30 PM to 9:30 PM**, and there's always a warm welcome waiting for you.
-
-Your first two rehearsals are **FREE** to give you the chance to decide if the choir is for you. At your first visit, a committee member will show you where to sit and introduce you to your section.
-
-**Interested in joining?** Drop us a line at [comms@tottenhamcommunitychoir.org](mailto:comms@tottenhamcommunitychoir.org) and we'll tell you everything you need to know.
-
-::alert{color="orange"}
-**Thinking of visiting?** Please get in touch first so we can give you a proper welcome
-::
-
-## Our Story
-
-Back in 2009, some local residents had a simple idea: wouldn't it be lovely if people in Tottenham could get together and sing? With support from a Haringey Council Making The Difference grant, Tottenham Community Choir was born.
-
-Since 2011, our wonderful musical director **Nicki Williamson** has been inspiring us to discover what our voices can really do. Under her expert guidance, we've grown from strength to strength, tackling everything from classical pieces to pop hits and traditional folk songs.
-
-**We're proud to be truly inclusive** – our members come from all backgrounds, ages, and walks of life. Everyone has a place in our choir family, regardless of gender, ethnicity, age, disability, religion, sexual orientation or education.
-
-Behind the scenes, our elected committee works with Nicki to choose our repertoire, organize performances, manage the practical stuff, and make sure we're playing our part in the wider Tottenham community.
 
 ## Frequently Asked Questions
 

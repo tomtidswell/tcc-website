@@ -1,19 +1,5 @@
 ---
-title: News & Events
-description: Upcoming events, past performances, photos, and how to find us
----
-
-# News & Events
-
-## Current Term Dates
-
-- **Current term:** Tuesday 6th January to Tuesday 24th March
-- **Spring term:** Tuesday 14th April to 21st July
-
-## Upcoming Events
-
-Upcoming events will be listed here.
-
+order: 3
 ---
 
 ## Past Performances
@@ -31,9 +17,3 @@ Upcoming events will be listed here.
 - **Saturday September 9:** Tottenham Flower and Produce Show, Lordship Rec.
 - **Sunday July 2nd:** Myddleton Road Summer Fair
 - **Tuesday July 11th:** Supporting Freedonia Concert Choir from State University of New York
-
----
-
-## Photo Gallery
-
-Photo gallery coming soon. In the meantime, visit our [Facebook page](https://en-gb.facebook.com/TottenhamCommunityChoir/){target="\_blank"} to see past performances.
