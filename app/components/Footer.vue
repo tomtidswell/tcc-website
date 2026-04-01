@@ -33,7 +33,6 @@
     background: #2c2c2c;
     color: white;
     padding: 2rem 0;
-    margin-top: 4rem;
     font-family: 'Roboto Slab', serif;
 }
 

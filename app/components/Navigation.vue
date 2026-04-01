@@ -1,7 +1,9 @@
 <template>
     <nav class="navbar">
         <div class="container">
-            <NuxtLink to="/" class="logo"> Tottenham Community Choir </NuxtLink>
+            <NuxtLink to="/" class="logo">
+                <img src="/favicon.svg" alt="TCC" class="logo-icon" />
+            </NuxtLink>
 
             <button
                 class="menu-toggle"
@@ -59,6 +61,13 @@ const closeMenu = () => {
 
 .logo:hover {
     color: #f0f0f0;
+}
+
+.logo-icon {
+    height: 40px;
+    width: auto;
+    display: block;
+    filter: brightness(0) invert(1);
 }
 
 .menu-toggle {

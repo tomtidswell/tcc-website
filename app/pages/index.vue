@@ -1,7 +1,5 @@
 <script setup lang="ts">
-const { data: sections } = await useAsyncData('home-sections', () =>
-    queryCollection('content').where('_path', 'LIKE', '/home/%').order('order', 'ASC').all()
-)
+const { data: sections } = await useAsyncData('home', () => queryCollection('home').all())
 
 useHead({
     title: 'Home - Tottenham Community Choir',
@@ -15,21 +13,33 @@ useHead({
 </script>
 
 <template>
-    <div class="page-sections">
-        <section v-for="section in sections" :key="section._id" class="content-section">
+    <div class="hero-container">
+        <img src="/choir-hero.jpg" alt="Tottenham Community Choir" class="hero-image" />
+    </div>
+    <template v-if="sections?.length">
+        <section v-for="section in sections" :key="section.id" class="content-section">
             <ContentRenderer :value="section" />
         </section>
+    </template>
+    <div v-else>
+        <p>Loading...</p>
     </div>
 </template>
 
 <style scoped>
-.page-sections {
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
+.hero-container {
+    width: 100%;
+    height: 60vh;
+    min-height: 400px;
+    max-height: 600px;
+    overflow: hidden;
+    position: relative;
 }
 
-.content-section {
+.hero-image {
     width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
 }
 </style>

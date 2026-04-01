@@ -1,7 +1,5 @@
 <script setup lang="ts">
-const { data: sections } = await useAsyncData('events-sections', () =>
-    queryCollection('content').where('_path', 'LIKE', '/events/%').order('order', 'ASC').all()
-)
+const { data: sections } = await useAsyncData('events', () => queryCollection('events').all())
 
 useHead({
     title: 'News & Events - Tottenham Community Choir',
@@ -15,27 +13,12 @@ useHead({
 </script>
 
 <template>
-    <div>
-        <h1>News & Events</h1>
-        <div v-if="sections" class="page-sections">
-            <section v-for="section in sections" :key="section._id" class="content-section">
-                <ContentRenderer :value="section" />
-            </section>
-        </div>
-        <div v-else>
-            <p>Loading...</p>
-        </div>
+    <template v-if="sections?.length">
+        <section v-for="section in sections" :key="section.id" class="content-section">
+            <ContentRenderer :value="section" />
+        </section>
+    </template>
+    <div v-else>
+        <p>Loading...</p>
     </div>
 </template>
-
-<style scoped>
-.page-sections {
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-}
-
-.content-section {
-    width: 100%;
-}
-</style>

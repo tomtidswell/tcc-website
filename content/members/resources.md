@@ -4,8 +4,6 @@ description: Practical information for choir members
 protected: true
 ---
 
-# Member Resources
-
 ## Performance Dress Code
 
 Guidelines for what to wear during performances will be posted here closer to each concert.
