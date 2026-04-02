@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx nuxi:*)",
+      "Bash(pnpm eslint:*)",
+      "Bash(pnpm format:check)"
+    ]
+  }
+}
