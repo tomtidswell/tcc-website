@@ -1,10 +1,10 @@
 # Tottenham Community Choir Website
 
-A modern Nuxt 3 rebuild of the Tottenham Community Choir website.
+A modern Nuxt 4 rebuild of the Tottenham Community Choir website.
 
 ## About
 
-This is a complete rebuild of the original Tottenham Community Choir website (https://www.tottenhamcommunitychoir.org/) using Nuxt 3 and Nuxt Content. The original site content has been preserved and migrated to a modern, maintainable framework.
+This is a complete rebuild of the original Tottenham Community Choir website (https://www.tottenhamcommunitychoir.org/) using Nuxt 4 and Nuxt Content. The original site content has been preserved and migrated to a modern, maintainable framework.
 
 ## Features
 

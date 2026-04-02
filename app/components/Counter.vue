@@ -21,5 +21,10 @@ const decrement = () => {
 <style scoped>
 button {
     margin: 5px;
+
+    &:focus-visible {
+        outline: 2px solid white;
+        outline-offset: 2px;
+    }
 }
 </style>

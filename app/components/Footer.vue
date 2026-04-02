@@ -14,6 +14,14 @@
                     <span>Facebook</span>
                 </a>
                 <a
+                    href="mailto:comms@tottenhamcommunitychoir.org"
+                    aria-label="Email us"
+                    title="Contact us by email"
+                >
+                    <Icon name="lucide:mail" />
+                    <span>Comms</span>
+                </a>
+                <a
                     href="https://www.redbubble.com/people/Tottenhamchoir/shop?asc=u"
                     target="_blank"
                     rel="noopener"
@@ -28,9 +36,9 @@
     </footer>
 </template>
 
-<style scoped>
+<style scoped lang="scss">
 .footer {
-    background: #2c2c2c;
+    background: $color-footer;
     color: white;
     padding: 2rem 0;
     font-family: 'Roboto Slab', serif;
@@ -72,10 +80,14 @@
     opacity: 0.8;
 }
 
-.social-links :deep(svg) {
+.social-links a:focus-visible {
+    outline: 2px solid white;
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
+.social-links {
     flex-shrink: 0;
-    width: 24px;
-    height: 24px;
 }
 
 @media (max-width: 768px) {

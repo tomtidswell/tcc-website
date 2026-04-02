@@ -13,7 +13,7 @@
             margin-right: auto;
         }
         &:nth-child(even) {
-            background-color: #101010;
+            background-color: $color-dark;
         }
     }
 
@@ -58,7 +58,7 @@
         font-size: 2.25rem;
         font-weight: 300;
         font-style: normal;
-        color: #ffd700;
+        color: $color-accent-gold;
     }
 
     // Paragraphs
@@ -69,7 +69,7 @@
 
     // Links
     a {
-        color: #ffa3e2;
+        color: $color-accent-pink;
         text-decoration: none;
         border-bottom: 1px solid transparent;
         transition: all 0.2s ease;
@@ -101,7 +101,7 @@
     // Horizontal Rule
     hr {
         border: none;
-        border-top: 2px solid #e0e0e0;
+        border-top: 2px solid $color-border-light;
         margin: 3rem 0;
     }
 
@@ -112,7 +112,7 @@
         margin-left: 0;
         margin-right: 0;
         font-style: italic;
-        color: #555;
+        color: $color-muted;
     }
 
     // Tables
@@ -123,7 +123,7 @@
     }
 
     th {
-        background-color: #f5f5f5;
+        background-color: $color-surface-light;
         padding: 0.75rem;
         text-align: left;
         font-weight: 600;
@@ -137,7 +137,7 @@
 
     // Code
     code {
-        background-color: #f5f5f5;
+        background-color: $color-surface-light;
         padding: 0.2rem 0.4rem;
         border-radius: 3px;
         font-family: 'Monaco', 'Courier New', monospace;
@@ -145,7 +145,7 @@
     }
 
     pre {
-        background-color: #f5f5f5;
+        background-color: $color-surface-light;
         padding: 1rem;
         border-radius: 5px;
         overflow-x: auto;
@@ -161,7 +161,7 @@
     h1 + p {
         font-size: 1.25rem;
         font-weight: 500;
-        color: #555;
+        color: $color-muted;
         margin-bottom: 2rem;
     }
 

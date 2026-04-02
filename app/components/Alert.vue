@@ -20,19 +20,14 @@ const { color } = defineProps({
 .alert {
     display: inline-flex;
     align-items: center;
-    padding: 12px 16px;
-    gap: 0.75rem;
     padding: 6px 8px;
+    gap: 12px;
     border-left: 2px solid;
-    // border-right: 2px solid;
-    // border-radius: 0.5rem;
 
     .alert-icon {
         flex-shrink: 0;
-        :deep(svg) {
-            width: 20px;
-            height: 20px;
-        }
+        width: 20px;
+        height: 20px;
     }
 
     .alert-content {

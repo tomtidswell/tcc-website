@@ -7,9 +7,9 @@
 
             <button
                 class="menu-toggle"
-                @click="isMenuOpen = !isMenuOpen"
                 :aria-expanded="isMenuOpen"
                 aria-label="Toggle navigation menu"
+                @click="isMenuOpen = !isMenuOpen"
             >
                 <span class="hamburger"></span>
             </button>
@@ -33,9 +33,9 @@ const closeMenu = () => {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .navbar {
-    background: #8f50e2;
+    background: $color-primary;
     color: white;
     padding: 1rem 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -52,7 +52,7 @@ const closeMenu = () => {
 }
 
 .logo {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-size: 1.5rem;
     font-weight: 700;
     color: white;
@@ -76,6 +76,12 @@ const closeMenu = () => {
     border: none;
     cursor: pointer;
     padding: 0.5rem;
+
+    &:focus-visible {
+        outline: 2px solid white;
+        outline-offset: 2px;
+        border-radius: 4px;
+    }
 }
 
 .hamburger {
@@ -125,6 +131,12 @@ const closeMenu = () => {
     opacity: 0.8;
 }
 
+.nav-menu a:focus-visible {
+    outline: 2px solid white;
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
 .nav-menu a.router-link-active {
     border-bottom: 2px solid white;
     padding-bottom: 0.25rem;
@@ -150,7 +162,7 @@ const closeMenu = () => {
         top: 100%;
         left: 0;
         right: 0;
-        background: #8f50e2;
+        background: $color-primary;
         flex-direction: column;
         padding: 1rem;
         gap: 1rem;

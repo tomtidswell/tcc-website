@@ -1,10 +1,15 @@
 <template>
     <div class="accordion">
-        <button class="accordion-header" @click="isOpen = !isOpen" :aria-expanded="isOpen">
+        <button
+            class="accordion-header"
+            :aria-expanded="isOpen"
+            :aria-controls="panelId"
+            @click="isOpen = !isOpen"
+        >
             <span class="accordion-title">{{ title }}</span>
             <span class="accordion-icon" :class="{ 'is-open': isOpen }">▼</span>
         </button>
-        <div class="accordion-content" :class="{ 'is-open': isOpen }">
+        <div :id="panelId" class="accordion-content" role="region" :class="{ 'is-open': isOpen }">
             <div class="accordion-body">
                 <slot></slot>
             </div>
@@ -20,12 +25,13 @@ const { title } = defineProps({
     },
 })
 
+const panelId = useId()
 const isOpen = ref(false)
 </script>
 
 <style scoped lang="scss">
 .accordion {
-    border: 1px solid #ffffff3d;
+    border: 1px solid $overlay-light;
     border-radius: 8px;
     margin-bottom: 1rem;
     overflow: hidden;
@@ -42,10 +48,10 @@ const isOpen = ref(false)
     justify-content: space-between;
     align-items: center;
     padding: 1rem 1.25rem;
-    background: #ffffff3d;
+    background: $overlay-light;
     border: none;
     cursor: pointer;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-size: 1.1rem;
     font-weight: 600;
     color: white;
@@ -53,7 +59,12 @@ const isOpen = ref(false)
     transition: background-color 0.2s ease;
 
     &:hover {
-        background: #ffffff52;
+        background: $overlay-medium;
+    }
+
+    &:focus-visible {
+        outline: 2px solid white;
+        outline-offset: -2px;
     }
 }
 
@@ -87,7 +98,7 @@ const isOpen = ref(false)
     font-family: 'Roboto Slab', serif;
     backdrop-filter: blur(10px);
     color: white;
-    background: #ffffff33;
+    background: $overlay-soft;
 
     :deep(p:first-child) {
         margin-top: 0;

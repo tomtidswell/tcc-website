@@ -30,8 +30,6 @@ useHead({
 </script>
 
 <style lang="scss">
-@use '~/assets/styles/content.scss';
-
 * {
     box-sizing: border-box;
 }
@@ -40,7 +38,7 @@ body {
     margin: 0;
     font-family: 'Roboto Slab', Georgia, serif;
     font-weight: 300;
-    background-color: #8f50e2;
+    background-color: $color-primary;
     line-height: 1.6;
     color: white;
 }
