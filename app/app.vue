@@ -10,8 +10,12 @@
 </template>
 
 <script setup>
+const {
+    app: { baseURL },
+} = useRuntimeConfig()
 useHead({
     link: [
+        { rel: 'icon', type: 'image/svg+xml', href: `${baseURL}favicon.svg` },
         {
             rel: 'preconnect',
             href: 'https://fonts.googleapis.com',

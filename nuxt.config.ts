@@ -19,7 +19,7 @@ export default defineNuxtConfig({
                     content: 'Tottenham Community Choir',
                 },
             ],
-            link: [{ rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+            link: [],
         },
     },
     css: ['@/assets/styles/content.scss'],
