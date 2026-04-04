@@ -38,20 +38,10 @@ export default defineNuxtConfig({
         build: {
             modulePreload: { polyfill: false },
         },
-        // Exclude ESM-only packages that @nuxtjs/mdc incorrectly adds to optimizeDeps.include,
-        // causing unresolvable entry warnings from Vite.
+        // Override @nuxtjs/mdc's optimizeDeps.include entries which are ESM-only
+        // and cannot be pre-bundled by Vite.
         optimizeDeps: {
-            exclude: [
-                'remark-gfm',
-                'remark-emoji',
-                'remark-mdc',
-                'remark-rehype',
-                'rehype-raw',
-                'parse5',
-                'unist-util-visit',
-                'unified',
-                'debug',
-            ],
+            include: [],
         },
         css: {
             preprocessorOptions: {
