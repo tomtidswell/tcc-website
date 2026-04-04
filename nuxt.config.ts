@@ -31,6 +31,9 @@ export default defineNuxtConfig({
     site: {
         url: 'https://www.tottenhamcommunitychoir.org',
     },
+    sitemap: {
+        exclude: ['/members', '/members/**'],
+    },
     vite: {
         // Exclude ESM-only packages that @nuxtjs/mdc incorrectly adds to optimizeDeps.include,
         // causing unresolvable entry warnings from Vite.
