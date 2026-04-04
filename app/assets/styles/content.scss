@@ -2,18 +2,25 @@
 .main-content {
     display: flex;
     flex-direction: column;
-    color: white;
+    color: $color-white;
 
     .content-section {
-        padding: 60px 0;
+        padding: 60px 2rem;
         & > * {
             width: 100%;
             max-width: 800px;
             margin-left: auto;
             margin-right: auto;
         }
+
+        @media (max-width: 768px) {
+            padding: 40px 2rem;
+        }
         &:nth-child(even) {
-            background-color: $color-dark;
+            background-color: $color-purple-dark-1;
+        }
+        &:nth-child(odd) {
+            background-color: $color-purple-dark-2;
         }
     }
 
@@ -25,7 +32,7 @@
         line-height: 1.1;
         margin-top: 0;
         margin-bottom: 1.5rem;
-        color: white;
+        color: $color-white;
         letter-spacing: -0.05rem;
     }
 
@@ -76,8 +83,7 @@
     }
 
     // Lists
-    ul,
-    ol {
+    ul {
         margin-bottom: 1.5rem;
         padding-left: 2rem;
         line-height: 1.8;
@@ -105,16 +111,6 @@
         margin: 3rem 0;
     }
 
-    // Blockquotes
-    blockquote {
-        border-left: 4px solid #5848b7;
-        padding-left: 1.5rem;
-        margin-left: 0;
-        margin-right: 0;
-        font-style: italic;
-        color: $color-muted;
-    }
-
     // Tables
     table {
         width: 100%;
@@ -127,45 +123,15 @@
         padding: 0.75rem;
         text-align: left;
         font-weight: 600;
-        border-bottom: 2px solid #ddd;
+        border-bottom: 2px solid $color-border-light;
     }
 
     td {
         padding: 0.75rem;
-        border-bottom: 1px solid #eee;
-    }
-
-    // Code
-    code {
-        background-color: $color-surface-light;
-        padding: 0.2rem 0.4rem;
-        border-radius: 3px;
-        font-family: 'Monaco', 'Courier New', monospace;
-        font-size: 0.9em;
-    }
-
-    pre {
-        background-color: $color-surface-light;
-        padding: 1rem;
-        border-radius: 5px;
-        overflow-x: auto;
-        margin-bottom: 1.5rem;
-
-        code {
-            background: none;
-            padding: 0;
-        }
-    }
-
-    // First paragraph after h1 - lead paragraph
-    h1 + p {
-        font-size: 1.25rem;
-        font-weight: 500;
-        color: $color-muted;
-        margin-bottom: 2rem;
+        border-bottom: 1px solid $color-border-light;
     }
 
     button {
-        color: white;
+        color: $color-white;
     }
 }

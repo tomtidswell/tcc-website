@@ -34,13 +34,17 @@ useHead({
     box-sizing: border-box;
 }
 
+html {
+    background-color: $color-primary;
+}
+
 body {
     margin: 0;
     font-family: 'Roboto Slab', Georgia, serif;
     font-weight: 300;
     background-color: $color-primary;
     line-height: 1.6;
-    color: white;
+    color: $color-white;
 }
 
 .app {

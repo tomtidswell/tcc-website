@@ -36,7 +36,6 @@ const closeMenu = () => {
 <style scoped lang="scss">
 .navbar {
     background: $color-primary;
-    color: white;
     padding: 1rem 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     position: relative;
@@ -49,18 +48,6 @@ const closeMenu = () => {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.logo {
-    font-family: 'Jost', sans-serif;
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: white;
-    text-decoration: none;
-}
-
-.logo:hover {
-    color: #f0f0f0;
 }
 
 .logo-icon {
@@ -78,7 +65,7 @@ const closeMenu = () => {
     padding: 0.5rem;
 
     &:focus-visible {
-        outline: 2px solid white;
+        outline: 2px solid $color-white;
         outline-offset: 2px;
         border-radius: 4px;
     }
@@ -88,7 +75,7 @@ const closeMenu = () => {
     display: block;
     width: 25px;
     height: 2px;
-    background: white;
+    background: $color-white;
     position: relative;
 }
 
@@ -98,7 +85,7 @@ const closeMenu = () => {
     position: absolute;
     width: 25px;
     height: 2px;
-    background: white;
+    background: $color-white;
     left: 0;
 }
 
@@ -121,7 +108,7 @@ const closeMenu = () => {
 }
 
 .nav-menu a {
-    color: white;
+    color: $color-white;
     text-decoration: none;
     transition: opacity 0.2s;
     font-weight: 600;
@@ -132,13 +119,13 @@ const closeMenu = () => {
 }
 
 .nav-menu a:focus-visible {
-    outline: 2px solid white;
+    outline: 2px solid $color-white;
     outline-offset: 2px;
     border-radius: 2px;
 }
 
 .nav-menu a.router-link-active {
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid $color-white;
     padding-bottom: 0.25rem;
 }
 
@@ -177,7 +164,7 @@ const closeMenu = () => {
 
     .nav-menu a.router-link-active {
         border-bottom: none;
-        border-left: 3px solid white;
+        border-left: 3px solid $color-white;
         padding-left: 1rem;
     }
 }

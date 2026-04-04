@@ -39,7 +39,7 @@
 <style scoped lang="scss">
 .footer {
     background: $color-footer;
-    color: white;
+    color: $color-white;
     padding: 2rem 0;
     font-family: 'Roboto Slab', serif;
 }
@@ -68,7 +68,7 @@
 }
 
 .social-links a {
-    color: white;
+    color: $color-white;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -81,7 +81,7 @@
 }
 
 .social-links a:focus-visible {
-    outline: 2px solid white;
+    outline: 2px solid $color-white;
     outline-offset: 2px;
     border-radius: 2px;
 }

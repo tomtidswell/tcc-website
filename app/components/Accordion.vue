@@ -54,7 +54,7 @@ const isOpen = ref(false)
     font-family: 'Jost', sans-serif;
     font-size: 1.1rem;
     font-weight: 600;
-    color: white;
+    color: $color-white;
     text-align: left;
     transition: background-color 0.2s ease;
 
@@ -63,7 +63,7 @@ const isOpen = ref(false)
     }
 
     &:focus-visible {
-        outline: 2px solid white;
+        outline: 2px solid $color-white;
         outline-offset: -2px;
     }
 }
@@ -75,7 +75,7 @@ const isOpen = ref(false)
 .accordion-icon {
     display: inline-block;
     transition: transform 0.3s ease;
-    color: #ffffff;
+    color: $color-white;
     font-size: 0.9em;
 
     &.is-open {
@@ -97,7 +97,7 @@ const isOpen = ref(false)
     padding: 1.25rem;
     font-family: 'Roboto Slab', serif;
     backdrop-filter: blur(10px);
-    color: white;
+    color: $color-white;
     background: $overlay-soft;
 
     :deep(p:first-child) {
