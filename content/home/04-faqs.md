@@ -45,7 +45,10 @@ At your first visit, a committee member will welcome you, show you where to sit,
 
 We have a tea break during rehearsals. A hot drink and piece of cake are available at 50p each. **Please bring your own cup.**
 
-**Please contact us before your first visit** so we can give you a proper welcome!
+::alert{color="orange"}
+**Thinking of visiting?** Please get in touch first so we can give you a proper welcome
+::
+
 ::
 
 ::Accordion{title="How do I get to rehearsal?"}
@@ -54,6 +57,10 @@ We have a tea break during rehearsals. A hot drink and piece of cake are availab
 West Green  
 London  
 N15 5BN
+
+::alert{color="orange"}
+**Thinking of visiting?** Please get in touch first so we can give you a proper welcome
+::
 
 **Rehearsals:** Tuesday evenings, 7:30-9:30pm
 
