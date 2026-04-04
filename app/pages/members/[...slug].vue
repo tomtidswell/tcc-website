@@ -1,4 +1,6 @@
 <script setup lang="ts">
+definePageMeta({ middleware: 'auth' })
+
 const route = useRoute()
 
 const { data: page } = await useAsyncData(`members-${route.path}`, () => {

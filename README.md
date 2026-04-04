@@ -13,29 +13,32 @@ This is a complete rebuild of the original Tottenham Community Choir website (ht
 - ✅ **70+ Practice Tracks**: MP3 links for all vocal parts across 17 current songs
 - ✅ **Responsive Navigation**: Mobile-friendly hamburger menu
 - ✅ **Content Management**: Markdown-based content with Nuxt Content
+- ✅ **Members Area Auth**: Client-side password protection with SHA-256 hashing
 
 ## Project Structure
 
 ```
 ├── app/
-│   ├── app.vue              # Main layout with navigation and footer
-│   └── components/
-│       └── Navigation.vue   # Site navigation component
+│   ├── app.vue                       # Main layout with navigation and footer
+│   ├── composables/
+│   │   └── useAuth.ts                # Auth composable (login, logout, session check)
+│   ├── middleware/
+│   │   └── auth.ts                   # Route middleware guarding /members/**
+│   ├── components/
+│   │   └── Navigation.vue            # Site navigation component
+│   └── pages/
+│       └── members/
+│           ├── login.vue             # Login page
+│           └── [...slug].vue         # Members content catch-all (auth-protected)
 ├── content/
-│   ├── *.md                 # Public pages
-│   └── members/             # Members-only pages
-│       ├── index.md         # Members area landing
-│       ├── repertoire.md    # Practice tracks (70+ MP3 links)
-│       └── *.md             # Other member resources
-├── old-site-archive/
-│   ├── html-files/
-│   │   ├── public/          # Original public HTML pages
-│   │   └── members-only/    # Original members HTML pages
-│   ├── ORIGINAL_SITE_REFERENCE.md
-│   ├── MEMBERS_AREA_REFERENCE.md
-│   ├── ACCESSING_MEMBERS_PAGES.md
-│   └── CONTENT_CATEGORIZATION.md
-└── public/                  # Static assets
+│   ├── home/                         # Home page sections
+│   ├── events/                       # News & events pages
+│   └── members/                      # Members-only content
+│       ├── index.md                  # Members area landing
+│       ├── repertoire.md             # Practice tracks (70+ MP3 links)
+│       └── *.md                      # Other member resources
+├── old-site-archive/                 # Original site content for reference
+└── public/                           # Static assets
 ```
 
 ## Setup
@@ -78,7 +81,6 @@ The original site content is preserved in `old-site-archive/`:
 
 ## Next Steps
 
-- [ ] Implement authentication for members area
 - [ ] Add image galleries (public and members)
 - [ ] Embed Google Map on "How to Find Us" page
 - [ ] Style refinements to match original site aesthetic
@@ -90,7 +92,7 @@ The original site content is preserved in `old-site-archive/`:
 - **Framework**: Nuxt 4.4.2
 - **Content**: Nuxt Content 3.12.0
 - **Package Manager**: pnpm
-- **Deployment**: TBD
+- **Deployment**: GitHub Pages (via `nuxt generate`)
 
 ## License
 

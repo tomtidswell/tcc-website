@@ -32,6 +32,17 @@
 - Custom components available in markdown: `::Alert{type="..."}`, `::Accordion{title="..."}`
 - No blockquotes, code blocks, ordered lists, or inline code are used in content — don't add styles for these
 
+## Members Area Auth
+
+- Client-side password protection using SHA-256 hashing via Web Crypto API
+- `app/composables/useAuth.ts` — `login()`, `logout()`, `checkSession()`; auth state in `sessionStorage`
+- `app/middleware/auth.ts` — guards all `/members/**` routes; skips on server so `nuxt generate` works
+- `app/pages/members/login.vue` — explicit route, takes priority over the `[...slug]` catch-all
+- To change the password: generate a new SHA-256 hash and update `PASSWORD_HASH` in `useAuth.ts`
+    ```
+    node -e "const {subtle}=require('crypto').webcrypto,enc=new TextEncoder();subtle.digest('SHA-256',enc.encode('your-password')).then(h=>console.log(Array.from(new Uint8Array(h)).map(b=>b.toString(16).padStart(2,'0')).join('')))"
+    ```
+
 ## Deployment
 
 - Deployed to GitHub Pages at `www.tomtidswell.co.uk/tcc-website/`

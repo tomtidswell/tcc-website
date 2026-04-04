@@ -17,6 +17,9 @@
             <ul class="nav-menu" :class="{ 'is-active': isMenuOpen }">
                 <li><NuxtLink to="/" @click="closeMenu">Home</NuxtLink></li>
                 <li><NuxtLink to="/news-and-events" @click="closeMenu">News & Events</NuxtLink></li>
+                <li v-if="isAuthenticated" class="logout-link">
+                    <button @click="handleLogout">Log out</button>
+                </li>
                 <li class="members-link">
                     <NuxtLink to="/members" @click="closeMenu">Members Area</NuxtLink>
                 </li>
@@ -27,9 +30,18 @@
 
 <script setup>
 const isMenuOpen = ref(false)
+const { isAuthenticated, logout, checkSession } = useAuth()
+
+onMounted(() => checkSession())
 
 const closeMenu = () => {
     isMenuOpen.value = false
+}
+
+const handleLogout = () => {
+    logout()
+    closeMenu()
+    navigateTo('/')
 }
 </script>
 
@@ -137,6 +149,23 @@ const closeMenu = () => {
 
 .members-link a:hover {
     background: rgba(255, 255, 255, 0.3);
+}
+
+.logout-link button {
+    background: none;
+    border: none;
+    color: $color-white;
+    font-family: 'Roboto Slab', serif;
+    font-size: inherit;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 0;
+    opacity: 1;
+    transition: opacity 0.2s;
+
+    &:hover {
+        opacity: 0.7;
+    }
 }
 
 @media (max-width: 768px) {
