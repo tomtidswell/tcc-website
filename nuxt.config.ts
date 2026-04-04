@@ -10,6 +10,7 @@ export default defineNuxtConfig({
         compatibilityVersion: 4,
     },
     app: {
+        baseURL: '/tcc-website/',
         head: {
             title: 'TCC',
             meta: [
