@@ -31,8 +31,20 @@ export default defineNuxtConfig({
         url: 'https://www.tottenhamcommunitychoir.org',
     },
     vite: {
+        // Exclude ESM-only packages that @nuxtjs/mdc incorrectly adds to optimizeDeps.include,
+        // causing unresolvable entry warnings from Vite.
         optimizeDeps: {
-            include: [],
+            exclude: [
+                'remark-gfm',
+                'remark-emoji',
+                'remark-mdc',
+                'remark-rehype',
+                'rehype-raw',
+                'parse5',
+                'unist-util-visit',
+                'unified',
+                'debug',
+            ],
         },
         css: {
             preprocessorOptions: {
