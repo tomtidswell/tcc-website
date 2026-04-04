@@ -35,6 +35,9 @@ export default defineNuxtConfig({
         exclude: ['/members', '/members/**'],
     },
     vite: {
+        build: {
+            modulePreload: { polyfill: false },
+        },
         // Exclude ESM-only packages that @nuxtjs/mdc incorrectly adds to optimizeDeps.include,
         // causing unresolvable entry warnings from Vite.
         optimizeDeps: {
