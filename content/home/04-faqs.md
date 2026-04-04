@@ -21,16 +21,15 @@ Not sure which part suits your voice? Don't worry! Just have a seat and join in 
 ::
 
 ::Accordion{title="How much does it cost?"}
-Our subscription rates per term (approximately 13 weeks):
+Your first two rehearsals are completely free, giving you the chance to see if the choir is right for you. Our subscription rates per term (approximately 13 weeks):
 
 | Category                  | Cost per Term |
 | ------------------------- | ------------- |
-| **First two weeks**       | **FREE**      |
+| First two weeks           | _FREE_        |
 | Waged                     | £65.00        |
 | Unwaged/Part-time/Retired | £45.00        |
 | Students                  | £20.00        |
 
-Your first two rehearsals are completely free, giving you the chance to see if the choir is right for you.
 ::
 
 ::Accordion{title="When are the current term dates?"}
@@ -38,7 +37,7 @@ Your first two rehearsals are completely free, giving you the chance to see if t
 - **Current term:** Tuesday 6th January to Tuesday 24th March
 - **Spring term:** Tuesday 14th April to Tuesday 21st July
 
-We rehearse every **Tuesday from 7:30 PM to 9:30 PM**.
+&nbsp;
 ::
 
 ::Accordion{title="What happens at my first rehearsal?"}
@@ -49,7 +48,7 @@ We have a tea break during rehearsals. A hot drink and piece of cake are availab
 **Please contact us before your first visit** so we can give you a proper welcome!
 ::
 
-::Accordion{title="How do I find TCC?"}
+::Accordion{title="How do I get to rehearsal?"}
 **Chestnuts Community Centre**  
 280 St Ann's Rd  
 West Green  

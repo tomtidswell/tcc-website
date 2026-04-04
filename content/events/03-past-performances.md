@@ -4,10 +4,15 @@ order: 3
 
 ## Past Performances
 
+### 2025
+
+- **December:** Joint concert with London Medical Orchestra
+- **November:** Annual TCC Christmas concert
+
 ### 2024
 
-- **November:** Annual TCC Christmas concert
 - **December:** Joint concert with London Medical Orchestra
+- **November:** Annual TCC Christmas concert
 - **June:** Performance with visiting American Choir, St. Pancras Church
 
 ### 2023
