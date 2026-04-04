@@ -180,6 +180,7 @@ const handleLogout = () => {
         right: 0;
         background: $color-primary;
         flex-direction: column;
+        align-items: flex-end;
         padding: 1rem;
         gap: 1rem;
         display: none;
