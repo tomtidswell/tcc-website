@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /members/
+
+Sitemap: https://www.tottenhamcommunitychoir.org/sitemap.xml
