@@ -46,7 +46,7 @@ body {
     margin: 0;
     font-family: 'Roboto Slab', Georgia, serif;
     font-weight: 300;
-    background-color: $color-primary;
+    background-color: $color-purple-dark-1;
     line-height: 1.6;
     color: $color-white;
 }

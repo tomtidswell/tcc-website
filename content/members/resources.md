@@ -17,17 +17,17 @@ Please ensure your performance attire is:
 - Appropriate for the venue
 - Consistent with choir guidelines provided before each performance
 
-Specific requirements (colors, formal/casual, accessories) will be communicated by email and discussed at rehearsals before each performance.
+Specific requirements (colours, formal/casual, accessories) will be communicated by email and discussed at rehearsals before each performance.
 
 ---
 
-## Serving Refreshments
+## Refreshments
 
 ### Tea Break at Rehearsals
 
-We have a tea break during our Tuesday rehearsals where hot drinks and cake are available at 50p each.
+We have a tea break during our Tuesday rehearsals where hot drinks and cake are available at 50p each. You can also pay for tea break as part of your subs.
 
-**Remember to bring your own cup!**
+Remember to bring your own cup!
 
 ### Refreshment Duty
 
