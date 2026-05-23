@@ -3,14 +3,14 @@ export default defineNuxtConfig({
     modules: ['@nuxt/content', '@nuxt/icon', '@nuxt/eslint', '@nuxtjs/sitemap'],
     devtools: { enabled: true },
     devServer: {
-        port: 5000,
+        port: 3000,
     },
     compatibilityDate: '2025-07-01',
     future: {
         compatibilityVersion: 4,
     },
     app: {
-        baseURL: '/tcc-website/',
+        // baseURL: '/tcc-website/',
         head: {
             title: 'TCC',
             meta: [

@@ -4,21 +4,25 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/chilcotts_gloria_sop__1_.mp3
             originalFilename: chilcotts_gloria_sop__1_.mp3
             localPath: current/soprano/a-little-jazz-mass-gloria_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1VJKrxB_0UgFr2-tGyvx17M7Z7_Ur8K7N/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/chilcotts_gloria_alto.mp3
             originalFilename: chilcotts_gloria_alto.mp3
             localPath: current/alto/a-little-jazz-mass-gloria_alto.mp3
             driveUrl: https://drive.google.com/file/d/1pZOvqNVDeZCRVczt4oAfUwlDBB6KfPNJ/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/chilcotts_gloria_tenor.mp3
             originalFilename: chilcotts_gloria_tenor.mp3
             localPath: current/tenor/a-little-jazz-mass-gloria_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1rZkkSAqlpdv3TmuslcLGvep0NRTExKlC/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/chilcotts_gloria_bass.mp3
             originalFilename: chilcotts_gloria_bass.mp3
             localPath: current/bass/a-little-jazz-mass-gloria_bass.mp3
@@ -28,31 +32,37 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop1
+            part: Soprano 1
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/aljm_sop1.mp3
             originalFilename: aljm_sop1.mp3
             localPath: current/soprano/a-little-jazz-mass-kyrie_soprano-1.mp3
             driveUrl: https://drive.google.com/file/d/1g_83TCpVvMFsp4jkYi0gvHu7GzaoIB3q/view?usp=drive_link
           - originalIdentifier: Sop2
+            part: Soprano 2
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/aljm_sop2.mp3
             originalFilename: aljm_sop2.mp3
             localPath: current/soprano/a-little-jazz-mass-kyrie_soprano-2.mp3
             driveUrl: https://drive.google.com/file/d/1K8VEyF3v-zXBzCekr3dadOMUoYPEz4FX/view?usp=drive_link
           - originalIdentifier: Alto1
+            part: Alto 1
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/aljm_alto1.mp3
             originalFilename: aljm_alto1.mp3
             localPath: current/alto/a-little-jazz-mass-kyrie_alto-1.mp3
             driveUrl: https://drive.google.com/file/d/1kX__hlwRApk9e-KuDy1nuPa20VibFkGM/view?usp=drive_link
           - originalIdentifier: Alto2
+            part: Alto 2
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/aljm_alto2.mp3
             originalFilename: aljm_alto2.mp3
             localPath: current/alto/a-little-jazz-mass-kyrie_alto-2.mp3
             driveUrl: https://drive.google.com/file/d/1se_IpUirg8IaGu6HV6yVcq-ClOCZ85Vz/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/aljm_tenor.mp3
             originalFilename: aljm_tenor.mp3
             localPath: current/tenor/a-little-jazz-mass-kyrie_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1OTXcikHcA6iBcWyPZ_LoCdrlU0VffDMP/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/aljm_bass.mp3
             originalFilename: aljm_bass.mp3
             localPath: current/bass/a-little-jazz-mass-kyrie_bass.mp3
@@ -62,21 +72,25 @@ songs:
       current: true
       parts:
           - originalIdentifier: Soprano
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/all_around_my_hat_soprano.mp3
             originalFilename: all_around_my_hat_soprano.mp3
             localPath: current/soprano/all-around-my-hat_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1GC_Ehssiz8ZuIzjYzjT2fGRXEHqSBzh_/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/all_around_my_hat_alto.mp3
             originalFilename: all_around_my_hat_alto.mp3
             localPath: current/alto/all-around-my-hat_alto.mp3
             driveUrl: https://drive.google.com/file/d/1DKv1-Gu0TSjX1wJuhiFTZJkUBCSX2vXr/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/all_around_my_hat_tenor.mp3
             originalFilename: all_around_my_hat_tenor.mp3
             localPath: current/tenor/all-around-my-hat_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1FPKZ6QolQ9JrWXqflc3q0Cu0RtuvUoRN/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/all_around_my_hat_bass.mp3
             originalFilename: all_around_my_hat_bass.mp3
             localPath: current/bass/all-around-my-hat_bass.mp3
@@ -86,21 +100,25 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop & Tenor
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/blackbird_s_t.mp3
             originalFilename: blackbird_s_t.mp3
             localPath: current/soprano/blackbird_sop-tenor.mp3
             driveUrl: https://drive.google.com/file/d/1cFRBbvlYS9nz_SngQSxHHyvYU1DNdapu/view?usp=drive_link
           - originalIdentifier: Sop & Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/blackbird_s_t.mp3
             originalFilename: blackbird_s_t.mp3
             localPath: current/tenor/blackbird_sop-tenor.mp3
             driveUrl: https://drive.google.com/file/d/1cFRBbvlYS9nz_SngQSxHHyvYU1DNdapu/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/blackbird_alto.mp3
             originalFilename: blackbird_alto.mp3
             localPath: current/alto/blackbird_alto.mp3
             driveUrl: https://drive.google.com/file/d/1Ro4PDj0YvbdCeAqTxxOT4t9RR8P8tuT5/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/blackbird_bass.mp3
             originalFilename: blackbird_bass.mp3
             localPath: current/bass/blackbird_bass.mp3
@@ -110,26 +128,31 @@ songs:
       current: false
       parts:
           - originalIdentifier: Soprano2
+            part: Soprano 2
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/zoom0390.mp3
             originalFilename: zoom0390.mp3
             localPath: archive/soprano/adiemus_soprano-2.mp3
             driveUrl: https://drive.google.com/file/d/1UE_nsHsPAqCeKL1dTCZJ6uzAHoBkx56E/view?usp=drive_link
           - originalIdentifier: Soprano1
+            part: Soprano 1
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/zoom0391.mp3
             originalFilename: zoom0391.mp3
             localPath: archive/soprano/adiemus_soprano-1.mp3
             driveUrl: https://drive.google.com/file/d/11Vfj7eb1FGdp5J4otscuxEepBkhZ7uM-/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/zoom0379.mp3
             originalFilename: zoom0379.mp3
             localPath: archive/alto/adiemus_alto.mp3
             driveUrl: https://drive.google.com/file/d/1qIe357jEmaXnXAy8pujPwGBK9sSIcLwf/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/zoom0380.mp3
             originalFilename: zoom0380.mp3
             localPath: archive/tenor/adiemus_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1gPPoiNX_e-4D4-j_pF-oo9SMfSFYmhYA/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/zoom0378.mp3
             originalFilename: zoom0378.mp3
             localPath: archive/bass/adiemus_bass.mp3
@@ -139,21 +162,25 @@ songs:
       current: false
       parts:
           - originalIdentifier: Soprano
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/acsop.mp3
             originalFilename: acsop.mp3
             localPath: archive/soprano/angels-carol_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1ITH0zSSknXruevEmmKTf9dXFFY3h58Pk/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/acalto.mp3
             originalFilename: acalto.mp3
             localPath: archive/alto/angels-carol_alto.mp3
             driveUrl: https://drive.google.com/file/d/1yufKe4JcJm_8_GBTwbcDUvv8gXRyVgUt/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/actenor.mp3
             originalFilename: actenor.mp3
             localPath: archive/tenor/angels-carol_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1Gk6Pz5tt_D8-g57TwVAQh47EVspGRQmv/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/acbass.mp3
             originalFilename: acbass.mp3
             localPath: archive/bass/angels-carol_bass.mp3
@@ -163,21 +190,25 @@ songs:
       current: true
       parts:
           - originalIdentifier: Soprano
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/calon_lan_sop.mp3
             originalFilename: calon_lan_sop.mp3
             localPath: current/soprano/calon-lan_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1xPt6vEEREtbqHWyaYurHXIlSB86FUvkC/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/calon_lan_alto.mp3
             originalFilename: calon_lan_alto.mp3
             localPath: current/alto/calon-lan_alto.mp3
             driveUrl: https://drive.google.com/file/d/1uLWpbCKdF3pCZp12PKa5XRF_CHs3__Qf/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/calon_lan_tenor.mp3
             originalFilename: calon_lan_tenor.mp3
             localPath: current/tenor/calon-lan_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1h-fz21N5j02z5L7YTWZQm10YtW2EagMi/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/calon_lan_bass.mp3
             originalFilename: calon_lan_bass.mp3
             localPath: current/bass/calon-lan_bass.mp3
@@ -187,21 +218,25 @@ songs:
       current: false
       parts:
           - originalIdentifier: Soprano
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/zoom0298.mp3
             originalFilename: zoom0298.mp3
             localPath: archive/soprano/eriskay-love-lilt_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1FP0_yOutoS2aKh2pBXHDYuICUJFOP31P/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/zoom0296.mp3
             originalFilename: zoom0296.mp3
             localPath: archive/alto/eriskay-love-lilt_alto.mp3
             driveUrl: https://drive.google.com/file/d/1kmKFQkXSnvxDNf5dXwAHCN7cBu8v6Vc5/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/zoom0300.mp3
             originalFilename: zoom0300.mp3
             localPath: archive/tenor/eriskay-love-lilt_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1jVcrzEZu_OuoqvZDsfD4Lwl4JYN9kwBV/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/zoom0297.mp3
             originalFilename: zoom0297.mp3
             localPath: archive/bass/eriskay-love-lilt_bass.mp3
@@ -211,31 +246,37 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop1
+            part: Soprano 1
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/foiml_sop1.mp3
             originalFilename: foiml_sop1.mp3
             localPath: current/soprano/for-once-in-my-life_soprano-1.mp3
             driveUrl: https://drive.google.com/file/d/1qJ52HFwiBTZ671zlpcYpVpgmtY0qhf4m/view?usp=drive_link
           - originalIdentifier: Sop2
+            part: Soprano 2
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/foiml_sop2.mp3
             originalFilename: foiml_sop2.mp3
             localPath: current/soprano/for-once-in-my-life_soprano-2.mp3
             driveUrl: https://drive.google.com/file/d/1WM2Qfw5A59TFWiV6SBRcW8IJ2sSWxrR1/view?usp=drive_link
           - originalIdentifier: Alto1
+            part: Alto 1
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/foiml_alto1.mp3
             originalFilename: foiml_alto1.mp3
             localPath: current/alto/for-once-in-my-life_alto-1.mp3
             driveUrl: https://drive.google.com/file/d/1GX2PX9CXL3mFdtVbK3jUAnEMS4FBhYsz/view?usp=drive_link
           - originalIdentifier: Alto2
+            part: Alto 2
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/foiml_alto2.mp3
             originalFilename: foiml_alto2.mp3
             localPath: current/alto/for-once-in-my-life_alto-2.mp3
             driveUrl: https://drive.google.com/file/d/1I-aenEsYnHp3FvWZ1D0M048XpjrWq7Wu/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/foiml_tenor.mp3
             originalFilename: foiml_tenor.mp3
             localPath: current/tenor/for-once-in-my-life_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1RUPUy2XpW2ZmmkdpxRr-C9_D1gsr_zhH/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/foiml_bass.mp3
             originalFilename: foiml_bass.mp3
             localPath: current/bass/for-once-in-my-life_bass.mp3
@@ -245,21 +286,25 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/god_only_knows_sop.mp3
             originalFilename: god_only_knows_sop.mp3
             localPath: current/soprano/god-only-knows_soprano.mp3
             driveUrl: https://drive.google.com/file/d/19dZTfpZiRV_gFJ_wmwk7utH5XiLHz_na/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/god_only_knows_alto.mp3
             originalFilename: god_only_knows_alto.mp3
             localPath: current/alto/god-only-knows_alto.mp3
             driveUrl: https://drive.google.com/file/d/144N5Fs3OplsmuY9-CWNacvkK2ggv2rzK/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/god_only_knows_tenor.mp3
             originalFilename: god_only_knows_tenor.mp3
             localPath: current/tenor/god-only-knows_tenor.mp3
             driveUrl: https://drive.google.com/file/d/18uv-C-e7gBkfUTwhD4k2p7w1_XAt1QeX/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/god_only_knows_bass.mp3
             originalFilename: god_only_knows_bass.mp3
             localPath: current/bass/god-only-knows_bass.mp3
@@ -269,21 +314,25 @@ songs:
       current: false
       parts:
           - originalIdentifier: Soprano
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/standing_sop.mp3
             originalFilename: standing_sop.mp3
             localPath: archive/soprano/im-still-standing_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1PQY-lxvv0t2GwUJ1GzBTWxtWWxWNVqWn/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/standing_alto.mp3
             originalFilename: standing_alto.mp3
             localPath: archive/alto/im-still-standing_alto.mp3
             driveUrl: https://drive.google.com/file/d/1G8QYDNwjyAE_rt1yLE2e_-w3ja_arMLS/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/standing_ten.mp3
             originalFilename: standing_ten.mp3
             localPath: archive/tenor/im-still-standing_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1d7T2UQ_R431AxYvvY5RrP7tlhhwX3a_4/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/standing_bass.mp3
             originalFilename: standing_bass.mp3
             localPath: archive/bass/im-still-standing_bass.mp3
@@ -293,21 +342,25 @@ songs:
       current: false
       parts:
           - originalIdentifier: Soprano
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/jellicle_sop.mp3
             originalFilename: jellicle_sop.mp3
             localPath: archive/soprano/jellicle-cats_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1AalIqCAp0x0eWuk6N5oh78ZW4C4W8xPQ/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/jellicle_alto.mp3
             originalFilename: jellicle_alto.mp3
             localPath: archive/alto/jellicle-cats_alto.mp3
             driveUrl: https://drive.google.com/file/d/1vMyh5NMMSTx9AEbAAg4_HpDGD1H-_fGQ/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/jellicle_tenor.mp3
             originalFilename: jellicle_tenor.mp3
             localPath: archive/tenor/jellicle-cats_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1s0zKcJsOGsKVvfMUotFyIvFqfGaTxX-f/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/jellicle_bass.mp3
             originalFilename: jellicle_bass.mp3
             localPath: archive/bass/jellicle-cats_bass.mp3
@@ -317,21 +370,25 @@ songs:
       current: true
       parts:
           - originalIdentifier: Soprano
+            part: Soprano
             originalUrl: https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/cbf7bf48-be7f-4ce8-a6a6-171eba38b29c/It_must_be_love_full_sop.mp3
             originalFilename: It_must_be_love_full_sop.mp3
             localPath: current/soprano/it-must-be-love_soprano.mp3
             driveUrl: https://drive.google.com/file/d/15l6Akw_zXm2LWbIRBoDF2x1CvjdU6bBF/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/91af5ef9-319f-4a8d-b25a-1ad6f74578de/It_must_be_love_full_alto.mp3
             originalFilename: It_must_be_love_full_alto.mp3
             localPath: current/alto/it-must-be-love_alto.mp3
             driveUrl: https://drive.google.com/file/d/1HAOX5ArvnbKRNs6soFZCtjMQDNuQp8dE/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/bfed3f01-ae2f-4da3-811b-0cc7e1ddab9f/It_must_be_love_full_Ten.mp3
             originalFilename: It_must_be_love_full_Ten.mp3
             localPath: current/tenor/it-must-be-love_tenor.mp3
             driveUrl: https://drive.google.com/file/d/108c3-Bniox5P6KErTIQK0u4i8HVQUR_h/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/49b3af46-1d29-4611-8b2d-fe0cb5c508fe/It_must_be_love_full_Bass.mp3
             originalFilename: It_must_be_love_full_Bass.mp3
             localPath: current/bass/it-must-be-love_bass.mp3
@@ -341,21 +398,25 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/jolene_sop.mp3
             originalFilename: jolene_sop.mp3
             localPath: current/soprano/jolene_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1LXNPExzLkf06eH6pSEb2E2fq55-e8LE9/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/jolene_alto.mp3
             originalFilename: jolene_alto.mp3
             localPath: current/alto/jolene_alto.mp3
             driveUrl: https://drive.google.com/file/d/1BH7yT2O2cjRi_ftrc8viiZhxPjOU39OA/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/jolene_tenor.mp3
             originalFilename: jolene_tenor.mp3
             localPath: current/tenor/jolene_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1HbBYvyCGp_lW36c9-B1yyirAYQ_QVOzH/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/jolene_bass.mp3
             originalFilename: jolene_bass.mp3
             localPath: current/bass/jolene_bass.mp3
@@ -365,21 +426,25 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/les_mis_sop.mp3
             originalFilename: les_mis_sop.mp3
             localPath: current/soprano/les-mis-one-day-more_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1uMTuiFJIJjZ679OgExFPhQiTZz6bN9HI/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/les_mis_alto.mp3
             originalFilename: les_mis_alto.mp3
             localPath: current/alto/les-mis-one-day-more_alto.mp3
             driveUrl: https://drive.google.com/file/d/1kSTcQ9IRwrgyT5z1hs_BzWaKleK7NyNS/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/les_mis_tenor.mp3
             originalFilename: les_mis_tenor.mp3
             localPath: current/tenor/les-mis-one-day-more_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1_GCkOmFHV5fNeROPVPCeJWN7kItLkQnB/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/les_mis_bass.mp3
             originalFilename: les_mis_bass.mp3
             localPath: current/bass/les-mis-one-day-more_bass.mp3
@@ -389,21 +454,25 @@ songs:
       current: false
       parts:
           - originalIdentifier: Soprano
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/rivers_sop.mp3
             originalFilename: rivers_sop.mp3
             localPath: archive/soprano/many-rivers-to-cross_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1iyBBxPv2TGJqOC6QQhYbpeAcZtq6Dsxi/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/zoom0311.mp3
             originalFilename: zoom0311.mp3
             localPath: archive/alto/many-rivers-to-cross_alto.mp3
             driveUrl: https://drive.google.com/file/d/1VRTmOTImWhtZdHYTkHCKl86YqJHnxg8O/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/zoom0310.mp3
             originalFilename: zoom0310.mp3
             localPath: archive/tenor/many-rivers-to-cross_tenor.mp3
             driveUrl: https://drive.google.com/file/d/16GZvFWVuj35TEOd5DUAXOOMjL4RBGHvZ/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/zoom0312.mp3
             originalFilename: zoom0312.mp3
             localPath: archive/bass/many-rivers-to-cross_bass.mp3
@@ -413,26 +482,31 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/o_nuit_sop.mp3
             originalFilename: o_nuit_sop.mp3
             localPath: current/soprano/o-nuit_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1w35kfZHs451qesJ3Sxa1nbheM4ArXhAQ/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/o_nuit_alto.mp3
             originalFilename: o_nuit_alto.mp3
             localPath: current/alto/o-nuit_alto.mp3
             driveUrl: https://drive.google.com/file/d/13TA2c2JdLbXdOT8qOW2aew6JEZ5i185G/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/o_nuit_tenor.mp3
             originalFilename: o_nuit_tenor.mp3
             localPath: current/tenor/o-nuit_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1NaIllKek8F8kPyXznPfsYvld7EBznhPS/view?usp=drive_link
           - originalIdentifier: Bass1
+            part: Bass 1
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/o_nuit_bass1.mp3
             originalFilename: o_nuit_bass1.mp3
             localPath: current/bass/o-nuit_bass1.mp3
             driveUrl: https://drive.google.com/file/d/11E86TitgHHjfkVOvOu7cWU7lFqc_KXRW/view?usp=drive_link
           - originalIdentifier: Bass2
+            part: Bass 2
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/o_nuit_bass2.mp3
             originalFilename: o_nuit_bass2.mp3
             localPath: current/bass/o-nuit_bass2.mp3
@@ -442,21 +516,25 @@ songs:
       current: false
       parts:
           - originalIdentifier: Soprano
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pmsop.mp3
             originalFilename: pmsop.mp3
             localPath: archive/soprano/proud-mary_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1oIaL1Zhu9k0BQ8tvscRbYviJ6Rget85x/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pmalto.mp3
             originalFilename: pmalto.mp3
             localPath: archive/alto/proud-mary_alto.mp3
             driveUrl: https://drive.google.com/file/d/1TtnkWkt5mPka8npINawVyZtoURJte8dl/view?usp=drive_link
           - originalIdentifier: Bass and Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pm-tnb.mp3
             originalFilename: pm-tnb.mp3
             localPath: archive/tenor/proud-mary_bass-and-tenor.mp3
             driveUrl: https://drive.google.com/file/d/1sIusD3-Hs3_sKlcmYasG80Wcm-Srd8k4/view?usp=drive_link
           - originalIdentifier: Bass and Tenor
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pm-tnb.mp3
             originalFilename: pm-tnb.mp3
             localPath: archive/bass/proud-mary_bass-and-tenor.mp3
@@ -466,21 +544,25 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop & Tenor
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/put_on_your_sunday_clothes_s_t.mp3
             originalFilename: put_on_your_sunday_clothes_s_t.mp3
             localPath: current/soprano/put-on-your-sunday-clothes_sop-tenor.mp3
             driveUrl: https://drive.google.com/file/d/1oP7Wre4LiuFr0A70JocecBmRmzSr8GmS/view?usp=drive_link
           - originalIdentifier: Sop & Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/put_on_your_sunday_clothes_s_t.mp3
             originalFilename: put_on_your_sunday_clothes_s_t.mp3
             localPath: current/tenor/put-on-your-sunday-clothes_sop-tenor.mp3
             driveUrl: https://drive.google.com/file/d/1oP7Wre4LiuFr0A70JocecBmRmzSr8GmS/view?usp=drive_link
           - originalIdentifier: Alto & Bass
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/put_on_your_sunday_clothes_a_b.mp3
             originalFilename: put_on_your_sunday_clothes_a_b.mp3
             localPath: current/alto/put-on-your-sunday-clothes_alto-bass.mp3
             driveUrl: https://drive.google.com/file/d/1uOUNbSGslDvL8Z-qjfDABgLtPwOzcihI/view?usp=drive_link
           - originalIdentifier: Alto & Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/put_on_your_sunday_clothes_a_b.mp3
             originalFilename: put_on_your_sunday_clothes_a_b.mp3
             localPath: current/bass/put-on-your-sunday-clothes_alto-bass.mp3
@@ -490,45 +572,54 @@ songs:
       current: false
       parts:
           - originalIdentifier: Soprano + Tenor
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pueblito_sop_ten.mp3
             originalFilename: pueblito_sop_ten.mp3
             localPath: archive/soprano/pueblito-mi-pueblo_soprano-tenor.mp3
             driveUrl: https://drive.google.com/file/d/1eziIyoUjmESdbPDGrKCEnVicyUJiZna2/view?usp=drive_link
           - originalIdentifier: Soprano + Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pueblito_sop_ten.mp3
             originalFilename: pueblito_sop_ten.mp3
             localPath: archive/tenor/pueblito-mi-pueblo_soprano-tenor.mp3
             driveUrl: https://drive.google.com/file/d/1eziIyoUjmESdbPDGrKCEnVicyUJiZna2/view?usp=drive_link
           - originalIdentifier: Alto + Bass
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pueblito_alt_bass.mp3
             originalFilename: pueblito_alt_bass.mp3
             localPath: archive/alto/pueblito-mi-pueblo_alto-bass.mp3
             driveUrl: https://drive.google.com/file/d/1ovTVHnZgtL3fYHTMgsKrPUwEZxY7YKdh/view?usp=drive_link
           - originalIdentifier: Alto + Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pueblito_alt_bass.mp3
             originalFilename: pueblito_alt_bass.mp3
             localPath: archive/bass/pueblito-mi-pueblo_alto-bass.mp3
             driveUrl: https://drive.google.com/file/d/1ovTVHnZgtL3fYHTMgsKrPUwEZxY7YKdh/view?usp=drive_link
           - originalIdentifier: Solo
+            part: Solo
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pueblito_solo.mp3
             originalFilename: pueblito_solo.mp3
             localPath: archive/soprano/pueblito-mi-pueblo_solo.mp3
           - originalIdentifier: Soprano + Tenor (Spoken)
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pueblito_sop_ten_spoken.mp3
             originalFilename: pueblito_sop_ten_spoken.mp3
             localPath: archive/soprano/pueblito-mi-pueblo_soprano-tenor-spoken.mp3
             driveUrl: https://drive.google.com/file/d/1Du6e95wdXsq3eHH3t7L0Nf3wob2abq8Z/view?usp=drive_link
           - originalIdentifier: Soprano + Tenor (Spoken)
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pueblito_sop_ten_spoken.mp3
             originalFilename: pueblito_sop_ten_spoken.mp3
             localPath: archive/tenor/pueblito-mi-pueblo_soprano-tenor-spoken.mp3
             driveUrl: https://drive.google.com/file/d/1Du6e95wdXsq3eHH3t7L0Nf3wob2abq8Z/view?usp=drive_link
           - originalIdentifier: Alto + Bass (Spoken)
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pueblito_alt_bass_spoken.mp3
             originalFilename: pueblito_alt_bass_spoken.mp3
             localPath: archive/alto/pueblito-mi-pueblo_alto-bass-spoken.mp3
             driveUrl: https://drive.google.com/file/d/1hGJzymWD4zN80CqsM9rSlV3oyDFFePxE/view?usp=drive_link
           - originalIdentifier: Alto + Bass (Spoken)
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pueblito_alt_bass_spoken.mp3
             originalFilename: pueblito_alt_bass_spoken.mp3
             localPath: archive/bass/pueblito-mi-pueblo_alto-bass-spoken.mp3
@@ -538,26 +629,31 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/trol_sop.mp3
             originalFilename: trol_sop.mp3
             localPath: current/soprano/rhythm-of-life_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1qnYBLIvKruerooXnBIGyKCzFRtYxZaKT/view?usp=drive_link
           - originalIdentifier: Alto1
+            part: Alto 1
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/trol_alto1.mp3
             originalFilename: trol_alto1.mp3
             localPath: current/alto/rhythm-of-life_alto-1.mp3
             driveUrl: https://drive.google.com/file/d/1YnsX8N9rMn0P93w-_ZEvy4CoV9EE-sKU/view?usp=drive_link
           - originalIdentifier: Alto2
+            part: Alto 2
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/trol_alto2.mp3
             originalFilename: trol_alto2.mp3
             localPath: current/alto/rhythm-of-life_alto-2.mp3
             driveUrl: https://drive.google.com/file/d/13JQq9pDZuNCKmM50RaHMgogZY-tAE6X8/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/trol_tenor.mp3
             originalFilename: trol_tenor.mp3
             localPath: current/tenor/rhythm-of-life_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1yNd4SFD5obiwmpXbD-lZM4R24g_r2bmr/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/trol_bass.mp3
             originalFilename: trol_bass.mp3
             localPath: current/bass/rhythm-of-life_bass.mp3
@@ -567,31 +663,37 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop
+            part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_soprano.mp3
             originalFilename: sanctus_soprano.mp3
             localPath: current/soprano/a-little-jazz-mass-sanctus_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1CWSJZB14ownoaipreAzlRVgLOyzeclCe/view?usp=drive_link
           - originalIdentifier: Alto1
+            part: Alto 1
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_alto1.mp3
             originalFilename: sanctus_alto1.mp3
             localPath: current/alto/a-little-jazz-mass-sanctus_alto-1.mp3
             driveUrl: https://drive.google.com/file/d/1Xzib_vUivRM4P-prIbZTgZxv9bf_mEWM/view?usp=drive_link
           - originalIdentifier: Alto2
+            part: Alto 2
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_alto2.mp3
             originalFilename: sanctus_alto2.mp3
             localPath: current/alto/a-little-jazz-mass-sanctus_alto-2.mp3
             driveUrl: https://drive.google.com/file/d/1BbgSEoT336NP4c9v1dBiFIa8vM8u9C0W/view?usp=drive_link
           - originalIdentifier: Tenor1
+            part: Tenor 1
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_tenor1.mp3
             originalFilename: sanctus_tenor1.mp3
             localPath: current/tenor/a-little-jazz-mass-sanctus_tenor1.mp3
             driveUrl: https://drive.google.com/file/d/1nfMtGYgfpKdyKMFgSRXUoAGze0R4OfAu/view?usp=drive_link
           - originalIdentifier: Tenor2
+            part: Tenor 2
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_tenor2.mp3
             originalFilename: sanctus_tenor2.mp3
             localPath: current/tenor/a-little-jazz-mass-sanctus_tenor2.mp3
             driveUrl: https://drive.google.com/file/d/12_YXzyLOL7gOJIHUH4LSgC2qGrs8CL5Q/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_bass.mp3
             originalFilename: sanctus_bass.mp3
             localPath: current/bass/a-little-jazz-mass-sanctus_bass.mp3
@@ -601,26 +703,31 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop1
+            part: Soprano 1
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/scarborough_song_sop1.mp3
             originalFilename: scarborough_song_sop1.mp3
             localPath: current/soprano/scarborough-fair-skye-boat-song_soprano-1.mp3
             driveUrl: https://drive.google.com/file/d/1Rd4Y2lcIu_d2QIOPOXI5sMBGAo6htqH4/view?usp=drive_link
           - originalIdentifier: Sop2
+            part: Soprano 2
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/scarborough_song_sop2.mp3
             originalFilename: scarborough_song_sop2.mp3
             localPath: current/soprano/scarborough-fair-skye-boat-song_soprano-2.mp3
             driveUrl: https://drive.google.com/file/d/1ILG1bGPB1v6fvHJrVDBuNr7g9D2ZCuPD/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/scarborough_song_alto.mp3
             originalFilename: scarborough_song_alto.mp3
             localPath: current/alto/scarborough-fair-skye-boat-song_alto.mp3
             driveUrl: https://drive.google.com/file/d/1Fnv0UZ7APKYjrYY9dbIzj9ySNrI-Wwvy/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/scarborough_song_tenor.mp3
             originalFilename: scarborough_song_tenor.mp3
             localPath: current/tenor/scarborough-fair-skye-boat-song_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1y-jR4Zb_CJdUWRH2e4GiWF8ftEhoFOqg/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/scarborough_song_bass.mp3
             originalFilename: scarborough_song_bass.mp3
             localPath: current/bass/scarborough-fair-skye-boat-song_bass.mp3
@@ -630,21 +737,25 @@ songs:
       current: false
       parts:
           - originalIdentifier: Soprano
+            part: Soprano
             originalUrl: https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/048d6f76-5731-103f-a4a5-50e1c3da151d/ZOOM0308.mp3
             originalFilename: ZOOM0308.mp3
             localPath: archive/soprano/sure-on-this-shining-night_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1eBkQqVbIctOGtQ8Rh---oayVCVPsNRv1/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/8b93ed6b-ad32-65b6-104c-8bcd6156c27a/ZOOM0306.mp3
             originalFilename: ZOOM0306.mp3
             localPath: archive/alto/sure-on-this-shining-night_alto.mp3
             driveUrl: https://drive.google.com/file/d/1eeP-aQJILNkykoYFmOHSQOb7rQUF5DG4/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/619cf2df-bc5f-74f6-a3e0-0df1b3e1f583/ZOOM0309.mp3
             originalFilename: ZOOM0309.mp3
             localPath: archive/tenor/sure-on-this-shining-night_tenor.mp3
             driveUrl: https://drive.google.com/file/d/14q5Pc7jJAuuM1k9ms_hjSBG1DI3UbW4R/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/e1176620-5d44-43b7-f735-39adcea4baab/ZOOM0307.mp3
             originalFilename: ZOOM0307.mp3
             localPath: archive/bass/sure-on-this-shining-night_bass.mp3
@@ -654,21 +765,25 @@ songs:
       current: false
       parts:
           - originalIdentifier: Soprano
+            part: Soprano
             originalUrl: https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/5629e123-50e5-3e6b-c740-1f44b7d0c17b/ZOOM0303.mp3
             originalFilename: ZOOM0303.mp3
             localPath: archive/soprano/thank-you-for-the-music_soprano.mp3
             driveUrl: https://drive.google.com/file/d/1hM4t5k8qDiwp8-ancf1sgglVp8jdvxOG/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/f026eebe-5480-09ff-c571-3b83b66b4928/ZOOM0301.02.mp3
             originalFilename: ZOOM0301.02.mp3
             localPath: archive/alto/thank-you-for-the-music_alto.mp3
             driveUrl: https://drive.google.com/file/d/1LnSoCEPiJFwRIjFvOzkEGF_43eR4dY9q/view?usp=drive_link
           - originalIdentifier: Tenor
+            part: Tenor
             originalUrl: https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/e6016abe-6c5c-5c03-0c63-667a55395a31/ZOOM0304.mp3
             originalFilename: ZOOM0304.mp3
             localPath: archive/tenor/thank-you-for-the-music_tenor.mp3
             driveUrl: https://drive.google.com/file/d/1nA9wiLYfHia3dt_Jc3vxRROe0cPObxue/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://mcusercontent.com/f9c3772c1b86e6bd327fff4cf/files/fee7ddfc-69e5-dfa6-f1a6-d665c065942b/ZOOM0305.mp3
             originalFilename: ZOOM0305.mp3
             localPath: archive/bass/thank-you-for-the-music_bass.mp3
@@ -678,31 +793,37 @@ songs:
       current: true
       parts:
           - originalIdentifier: Sop1
+            part: Soprano 1
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/va_pensiero_sop1.mp3
             originalFilename: va_pensiero_sop1.mp3
             localPath: current/soprano/va-pensiero_soprano-1.mp3
             driveUrl: https://drive.google.com/file/d/1IMQSwEstl5HUprsOlW7WyPORKaRosjmA/view?usp=drive_link
           - originalIdentifier: Sop2
+            part: Soprano 2
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/va_pensiero_sop2.mp3
             originalFilename: va_pensiero_sop2.mp3
             localPath: current/soprano/va-pensiero_soprano-2.mp3
             driveUrl: https://drive.google.com/file/d/1VHpJOcJOLqiIYWowEHaoeedoHKWQz0KC/view?usp=drive_link
           - originalIdentifier: Alto
+            part: Alto
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/va_pensiero_alto.mp3
             originalFilename: va_pensiero_alto.mp3
             localPath: current/alto/va-pensiero_alto.mp3
             driveUrl: https://drive.google.com/file/d/17tCCjAzTJfnti5kAoys70TSlhQiEycuh/view?usp=drive_link
           - originalIdentifier: Ten1
+            part: Tenor 1
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/va_pensiero_ten1.mp3
             originalFilename: va_pensiero_ten1.mp3
             localPath: current/tenor/va-pensiero_tenor-1.mp3
             driveUrl: https://drive.google.com/file/d/17QT_I06f0ahYdgfpOLXDHqoEkeLk2Kbn/view?usp=drive_link
           - originalIdentifier: Ten2
+            part: Tenor 2
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/va_pensiero_ten2.mp3
             originalFilename: va_pensiero_ten2.mp3
             localPath: current/tenor/va-pensiero_tenor-2.mp3
             driveUrl: https://drive.google.com/file/d/1kAxe5myrQoKVQET3yRU4YAUVRJowqpwJ/view?usp=drive_link
           - originalIdentifier: Bass
+            part: Bass
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/va_pensiero_bass.mp3
             originalFilename: va_pensiero_bass.mp3
             localPath: current/bass/va-pensiero_bass.mp3
