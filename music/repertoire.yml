@@ -1,32 +1,4 @@
 songs:
-    - title: A Little Jazz Mass — Gloria
-      slug: a-little-jazz-mass-gloria
-      current: true
-      parts:
-          - originalIdentifier: Sop
-            part: Soprano
-            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/chilcotts_gloria_sop__1_.mp3
-            originalFilename: chilcotts_gloria_sop__1_.mp3
-            localPath: current/soprano/a-little-jazz-mass-gloria_soprano.mp3
-            driveUrl: https://drive.google.com/file/d/1VJKrxB_0UgFr2-tGyvx17M7Z7_Ur8K7N/view?usp=drive_link
-          - originalIdentifier: Alto
-            part: Alto
-            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/chilcotts_gloria_alto.mp3
-            originalFilename: chilcotts_gloria_alto.mp3
-            localPath: current/alto/a-little-jazz-mass-gloria_alto.mp3
-            driveUrl: https://drive.google.com/file/d/1pZOvqNVDeZCRVczt4oAfUwlDBB6KfPNJ/view?usp=drive_link
-          - originalIdentifier: Tenor
-            part: Tenor
-            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/chilcotts_gloria_tenor.mp3
-            originalFilename: chilcotts_gloria_tenor.mp3
-            localPath: current/tenor/a-little-jazz-mass-gloria_tenor.mp3
-            driveUrl: https://drive.google.com/file/d/1rZkkSAqlpdv3TmuslcLGvep0NRTExKlC/view?usp=drive_link
-          - originalIdentifier: Bass
-            part: Bass
-            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/chilcotts_gloria_bass.mp3
-            originalFilename: chilcotts_gloria_bass.mp3
-            localPath: current/bass/a-little-jazz-mass-gloria_bass.mp3
-            driveUrl: https://drive.google.com/file/d/1_O_nQAQNPaR17feU_ScA7D8l2qMur8vW/view?usp=drive_link
     - title: A Little Jazz Mass — Kyrie
       slug: a-little-jazz-mass-kyrie
       current: true
@@ -67,6 +39,74 @@ songs:
             originalFilename: aljm_bass.mp3
             localPath: current/bass/a-little-jazz-mass-kyrie_bass.mp3
             driveUrl: https://drive.google.com/file/d/1_tBqZN5IcLc0ovzyygBqOgQSAgxIaQ2t/view?usp=drive_link
+    - title: A Little Jazz Mass — Gloria
+      slug: a-little-jazz-mass-gloria
+      current: true
+      parts:
+          - originalIdentifier: Sop
+            part: Soprano
+            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/chilcotts_gloria_sop__1_.mp3
+            originalFilename: chilcotts_gloria_sop__1_.mp3
+            localPath: current/soprano/a-little-jazz-mass-gloria_soprano.mp3
+            driveUrl: https://drive.google.com/file/d/1VJKrxB_0UgFr2-tGyvx17M7Z7_Ur8K7N/view?usp=drive_link
+          - originalIdentifier: Alto
+            part: Alto
+            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/chilcotts_gloria_alto.mp3
+            originalFilename: chilcotts_gloria_alto.mp3
+            localPath: current/alto/a-little-jazz-mass-gloria_alto.mp3
+            driveUrl: https://drive.google.com/file/d/1pZOvqNVDeZCRVczt4oAfUwlDBB6KfPNJ/view?usp=drive_link
+          - originalIdentifier: Tenor
+            part: Tenor
+            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/chilcotts_gloria_tenor.mp3
+            originalFilename: chilcotts_gloria_tenor.mp3
+            localPath: current/tenor/a-little-jazz-mass-gloria_tenor.mp3
+            driveUrl: https://drive.google.com/file/d/1rZkkSAqlpdv3TmuslcLGvep0NRTExKlC/view?usp=drive_link
+          - originalIdentifier: Bass
+            part: Bass
+            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/chilcotts_gloria_bass.mp3
+            originalFilename: chilcotts_gloria_bass.mp3
+            localPath: current/bass/a-little-jazz-mass-gloria_bass.mp3
+            driveUrl: https://drive.google.com/file/d/1_O_nQAQNPaR17feU_ScA7D8l2qMur8vW/view?usp=drive_link
+    - title: A Little Jazz Mass — Sanctus
+      slug: a-little-jazz-mass-sanctus
+      current: true
+      parts:
+          - originalIdentifier: Sop
+            part: Soprano
+            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_soprano.mp3
+            originalFilename: sanctus_soprano.mp3
+            localPath: current/soprano/a-little-jazz-mass-sanctus_soprano.mp3
+            driveUrl: https://drive.google.com/file/d/1CWSJZB14ownoaipreAzlRVgLOyzeclCe/view?usp=drive_link
+          - originalIdentifier: Alto1
+            part: Alto 1
+            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_alto1.mp3
+            originalFilename: sanctus_alto1.mp3
+            localPath: current/alto/a-little-jazz-mass-sanctus_alto-1.mp3
+            driveUrl: https://drive.google.com/file/d/1Xzib_vUivRM4P-prIbZTgZxv9bf_mEWM/view?usp=drive_link
+          - originalIdentifier: Alto2
+            part: Alto 2
+            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_alto2.mp3
+            originalFilename: sanctus_alto2.mp3
+            localPath: current/alto/a-little-jazz-mass-sanctus_alto-2.mp3
+            driveUrl: https://drive.google.com/file/d/1BbgSEoT336NP4c9v1dBiFIa8vM8u9C0W/view?usp=drive_link
+          - originalIdentifier: Tenor1
+            part: Tenor 1
+            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_tenor1.mp3
+            originalFilename: sanctus_tenor1.mp3
+            localPath: current/tenor/a-little-jazz-mass-sanctus_tenor1.mp3
+            driveUrl: https://drive.google.com/file/d/1nfMtGYgfpKdyKMFgSRXUoAGze0R4OfAu/view?usp=drive_link
+          - originalIdentifier: Tenor2
+            part: Tenor 2
+            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_tenor2.mp3
+            originalFilename: sanctus_tenor2.mp3
+            localPath: current/tenor/a-little-jazz-mass-sanctus_tenor2.mp3
+            driveUrl: https://drive.google.com/file/d/12_YXzyLOL7gOJIHUH4LSgC2qGrs8CL5Q/view?usp=drive_link
+          - originalIdentifier: Bass
+            part: Bass
+            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_bass.mp3
+            originalFilename: sanctus_bass.mp3
+            localPath: current/bass/a-little-jazz-mass-sanctus_bass.mp3
+            driveUrl: https://drive.google.com/file/d/1uQAPVOxBEblJAUQq73ntPX4BZ3Fm3487/view?usp=drive_link
     - title: All Around My Hat
       slug: all-around-my-hat
       current: true
@@ -600,6 +640,10 @@ songs:
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pueblito_solo.mp3
             originalFilename: pueblito_solo.mp3
             localPath: archive/soprano/pueblito-mi-pueblo_solo.mp3
+    - title: Pueblito, mi Pueblo (Spoken)
+      slug: pueblito-mi-pueblo-spoken
+      current: false
+      parts:
           - originalIdentifier: Soprano + Tenor (Spoken)
             part: Soprano
             originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/pueblito_sop_ten_spoken.mp3
@@ -658,46 +702,6 @@ songs:
             originalFilename: trol_bass.mp3
             localPath: current/bass/rhythm-of-life_bass.mp3
             driveUrl: https://drive.google.com/file/d/16Hl9Gg2871kBz_U2SD0sOiMPuV0taK2y/view?usp=drive_link
-    - title: A Little Jazz Mass — Sanctus
-      slug: a-little-jazz-mass-sanctus
-      current: true
-      parts:
-          - originalIdentifier: Sop
-            part: Soprano
-            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_soprano.mp3
-            originalFilename: sanctus_soprano.mp3
-            localPath: current/soprano/a-little-jazz-mass-sanctus_soprano.mp3
-            driveUrl: https://drive.google.com/file/d/1CWSJZB14ownoaipreAzlRVgLOyzeclCe/view?usp=drive_link
-          - originalIdentifier: Alto1
-            part: Alto 1
-            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_alto1.mp3
-            originalFilename: sanctus_alto1.mp3
-            localPath: current/alto/a-little-jazz-mass-sanctus_alto-1.mp3
-            driveUrl: https://drive.google.com/file/d/1Xzib_vUivRM4P-prIbZTgZxv9bf_mEWM/view?usp=drive_link
-          - originalIdentifier: Alto2
-            part: Alto 2
-            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_alto2.mp3
-            originalFilename: sanctus_alto2.mp3
-            localPath: current/alto/a-little-jazz-mass-sanctus_alto-2.mp3
-            driveUrl: https://drive.google.com/file/d/1BbgSEoT336NP4c9v1dBiFIa8vM8u9C0W/view?usp=drive_link
-          - originalIdentifier: Tenor1
-            part: Tenor 1
-            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_tenor1.mp3
-            originalFilename: sanctus_tenor1.mp3
-            localPath: current/tenor/a-little-jazz-mass-sanctus_tenor1.mp3
-            driveUrl: https://drive.google.com/file/d/1nfMtGYgfpKdyKMFgSRXUoAGze0R4OfAu/view?usp=drive_link
-          - originalIdentifier: Tenor2
-            part: Tenor 2
-            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_tenor2.mp3
-            originalFilename: sanctus_tenor2.mp3
-            localPath: current/tenor/a-little-jazz-mass-sanctus_tenor2.mp3
-            driveUrl: https://drive.google.com/file/d/12_YXzyLOL7gOJIHUH4LSgC2qGrs8CL5Q/view?usp=drive_link
-          - originalIdentifier: Bass
-            part: Bass
-            originalUrl: https://www.tottenhamcommunitychoir.org/uploads/4/3/9/1/43916423/sanctus_bass.mp3
-            originalFilename: sanctus_bass.mp3
-            localPath: current/bass/a-little-jazz-mass-sanctus_bass.mp3
-            driveUrl: https://drive.google.com/file/d/1uQAPVOxBEblJAUQq73ntPX4BZ3Fm3487/view?usp=drive_link
     - title: Scarborough Fair / Skye Boat Song
       slug: scarborough-fair-skye-boat-song
       current: true
